@@ -1,0 +1,232 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "B2",
+    "label": "Upper-Intermediate",
+    "language_profile": [
+      "argument and counter-argument",
+      "hedging and passive voice",
+      "less common vocabulary"
+    ]
+  },
+  "topic": {
+    "id": "B2-321",
+    "domain": "Psychology",
+    "title": "Psychology: The Jaipur Memory Project: retraining people to forget safely",
+    "focus": "The Jaipur Memory Project: retraining people to forget safely"
+  },
+  "recommended_time_minutes": 25,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-8. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "A clinic in India tackles trauma",
+        "text": "In 2014, Dr. Rajesh Patel established a clinic in Jaipur, India, specialising in post-traumatic stress disorder (PTSD) among refugees and accident survivors. His team found that 73% of patients experienced debilitating flashbacks that prevented them from working or sleeping. Unlike most trauma clinics, Patel's approach was based not on reinforcing memories but on weakening them — a controversial technique called reconsolidation therapy. After each patient recalled a traumatic event in a safe setting, they took a beta-blocker to suppress the emotional response while sleeping. Over twelve weeks, most patients reported a 60% reduction in flashback intensity."
+      },
+      {
+        "paragraph": 2,
+        "heading": "How the memory weakens",
+        "text": "Neuroscientists had understood since 2000 that memories become unstable when recalled. A team at McGill University in Montreal discovered that during this window of instability, the brain's emotional tag can be rewritten. When Dr. Patel's patients took propranolol, a beta-blocker commonly used for high blood pressure, it blocked the hormone adrenaline — the chemical that cements fear into memory during sleep. By interrupting this process just once per week for twelve weeks, the clinic achieved results comparable to years of traditional talk therapy. The key was timing: the drug had to be taken within six hours of recalling the trauma, and patients had to sleep within four hours of taking it."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Challenges and ethics",
+        "text": "The clinic treated 340 patients between 2014 and 2019. Of these, 76% showed significant improvement, while 14% experienced no change, and 10% reported adverse effects including numbness or emotional detachment. International review boards questioned whether it was ethical to alter memories without the person's full understanding of what they would lose. In 2018, the Indian Medical Council temporarily suspended the treatment pending further review. Patient testimonies were mixed: some described liberation from intrusive thoughts, while others felt they had lost an important part of their identity."
+      },
+      {
+        "paragraph": 4,
+        "heading": "Expansion to other countries",
+        "text": "By 2021, similar programs had started in Bangkok, Buenos Aires, and Johannesburg. The International Society of Trauma Psychology endorsed reconsolidation therapy for PTSD in 2022, but only under strict protocols. Treatment costs ranged from $2,000 in India to $8,000 in North America, making access highly unequal. Insurance companies in the United States began covering the treatment in 2023, but only after proving symptom relief lasted at least two years."
+      },
+      {
+        "paragraph": 5,
+        "heading": "The larger question",
+        "text": "Dr. Patel published his final cohort analysis in The Lancet Psychiatry in 2024, concluding that selective memory weakening represented neither a cure nor a complete erasure, but rather a recalibration of emotional intensity. He warned against overusing the technique on minor traumas or on patients who had not consented fully. As artificial intelligence systems began to replicate this model in 2023, ethicists raised concerns about whether machines could ever make the subtle judgments about which memories were safe to weaken."
+      }
+    ],
+    "full_text": "Paragraph 1 — A clinic in India tackles trauma\nIn 2014, Dr. Rajesh Patel established a clinic in Jaipur, India, specialising in post-traumatic stress disorder (PTSD) among refugees and accident survivors. His team found that 73% of patients experienced debilitating flashbacks that prevented them from working or sleeping. Unlike most trauma clinics, Patel's approach was based not on reinforcing memories but on weakening them — a controversial technique called reconsolidation therapy. After each patient recalled a traumatic event in a safe setting, they took a beta-blocker to suppress the emotional response while sleeping. Over twelve weeks, most patients reported a 60% reduction in flashback intensity.\n\nParagraph 2 — How the memory weakens\nNeuroscientists had understood since 2000 that memories become unstable when recalled. A team at McGill University in Montreal discovered that during this window of instability, the brain's emotional tag can be rewritten. When Dr. Patel's patients took propranolol, a beta-blocker commonly used for high blood pressure, it blocked the hormone adrenaline — the chemical that cements fear into memory during sleep. By interrupting this process just once per week for twelve weeks, the clinic achieved results comparable to years of traditional talk therapy. The key was timing: the drug had to be taken within six hours of recalling the trauma, and patients had to sleep within four hours of taking it.\n\nParagraph 3 — Challenges and ethics\nThe clinic treated 340 patients between 2014 and 2019. Of these, 76% showed significant improvement, while 14% experienced no change, and 10% reported adverse effects including numbness or emotional detachment. International review boards questioned whether it was ethical to alter memories without the person's full understanding of what they would lose. In 2018, the Indian Medical Council temporarily suspended the treatment pending further review. Patient testimonies were mixed: some described liberation from intrusive thoughts, while others felt they had lost an important part of their identity.\n\nParagraph 4 — Expansion to other countries\nBy 2021, similar programs had started in Bangkok, Buenos Aires, and Johannesburg. The International Society of Trauma Psychology endorsed reconsolidation therapy for PTSD in 2022, but only under strict protocols. Treatment costs ranged from $2,000 in India to $8,000 in North America, making access highly unequal. Insurance companies in the United States began covering the treatment in 2023, but only after proving symptom relief lasted at least two years.\n\nParagraph 5 — The larger question\nDr. Patel published his final cohort analysis in The Lancet Psychiatry in 2024, concluding that selective memory weakening represented neither a cure nor a complete erasure, but rather a recalibration of emotional intensity. He warned against overusing the technique on minor traumas or on patients who had not consented fully. As artificial intelligence systems began to replicate this model in 2023, ethicists raised concerns about whether machines could ever make the subtle judgments about which memories were safe to weaken."
+  },
+  "question_count": 8,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "B2",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "A clinic in India tackles trauma",
+        "anchor": "Patel's approach was based not on reinforcing memories but on weakening them"
+      },
+      "explanation": "Paragraph 1 explicitly states his novel approach was weakening rather than reinforcing; the other options contradict or misrepresent the method.",
+      "question": "What was Dr. Patel's main innovation in treating PTSD?",
+      "options": [
+        "Weakening traumatic memories rather than reinforcing them",
+        "Combining talk therapy with medication",
+        "Developing new beta-blockers in his clinic",
+        "Preventing patients from sleeping after trauma recall"
+      ],
+      "answer": "A",
+      "answer_text": "Weakening traumatic memories rather than reinforcing them"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "B2",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How the memory weakens",
+        "anchor": "beta-blocker commonly used for high blood pressure"
+      },
+      "explanation": "Paragraph 2 states propranolol is a blood pressure medication being repurposed, not a drug designed for PTSD.",
+      "statement": "Propranolol is a drug designed specifically to treat PTSD.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "B2",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How the memory weakens",
+        "anchor": "memories become unstable when recalled"
+      },
+      "explanation": "The exact word appears in paragraph 2 describing the McGill discovery.",
+      "question": "At McGill University, scientists discovered that memories become unstable when ____.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "recalled"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "B2",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Challenges and ethics",
+        "anchor": "ethical to alter memories without the person's full understanding"
+      },
+      "explanation": "Paragraph 3 is entirely focused on challenges and ethical dilemmas raised by review boards.",
+      "question": "Which paragraph discusses ethical concerns about the treatment?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 3"
+    },
+    {
+      "id": "Q05",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "B2",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Challenges and ethics",
+        "anchor": "76% showed significant improvement, while 14% experienced no change, and 10% reported adverse effects"
+      },
+      "explanation": "Paragraph 3 gives specific percentages showing that not all patients improved; 14% saw no change and 10% had adverse effects.",
+      "statement": "All patients who received the treatment at Dr. Patel's clinic showed improvement.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q06",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "B2",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Expansion to other countries",
+        "anchor": "The International Society of Trauma Psychology endorsed reconsolidation therapy for PTSD in 2022"
+      },
+      "explanation": "Paragraph 4 provides the exact year of endorsement.",
+      "question": "In what year was reconsolidation therapy endorsed by the International Society of Trauma Psychology?",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "2022"
+    },
+    {
+      "id": "Q07",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "B2",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How the memory weakens",
+        "anchor": "patients had to sleep within four hours of taking it"
+      },
+      "explanation": "Paragraph 2 specifies the four-hour window between taking the drug and sleep; other timeframes are not mentioned.",
+      "question": "How long after recalling a trauma did patients need to sleep for the treatment to work?",
+      "options": [
+        "Within one hour",
+        "Within two hours",
+        "Within four hours",
+        "Within six hours"
+      ],
+      "answer": "C",
+      "answer_text": "Within four hours"
+    },
+    {
+      "id": "Q08",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "B2",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Expansion to other countries",
+        "anchor": "Insurance companies in the United States began covering the treatment in 2023"
+      },
+      "explanation": "Paragraph 4 states this year directly.",
+      "question": "In the United States, insurance companies began covering reconsolidation therapy in ____.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "2023"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 explicitly states his novel approach was weakening rather than reinforcing; the other options contradict or misrepresent the method."
+    },
+    {
+      "id": "Q02",
+      "answer": "FALSE",
+      "explanation": "Paragraph 2 states propranolol is a blood pressure medication being repurposed, not a drug designed for PTSD."
+    },
+    {
+      "id": "Q03",
+      "answer": "recalled",
+      "explanation": "The exact word appears in paragraph 2 describing the McGill discovery."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 3",
+      "explanation": "Paragraph 3 is entirely focused on challenges and ethical dilemmas raised by review boards."
+    },
+    {
+      "id": "Q05",
+      "answer": "FALSE",
+      "explanation": "Paragraph 3 gives specific percentages showing that not all patients improved; 14% saw no change and 10% had adverse effects."
+    },
+    {
+      "id": "Q06",
+      "answer": "2022",
+      "explanation": "Paragraph 4 provides the exact year of endorsement."
+    },
+    {
+      "id": "Q07",
+      "answer": "C",
+      "explanation": "Paragraph 2 specifies the four-hour window between taking the drug and sleep; other timeframes are not mentioned."
+    },
+    {
+      "id": "Q08",
+      "answer": "2023",
+      "explanation": "Paragraph 4 states this year directly."
+    }
+  ]
+}

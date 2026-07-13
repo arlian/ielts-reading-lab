@@ -1,0 +1,278 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "B1",
+    "label": "Intermediate",
+    "language_profile": [
+      "some abstract ideas",
+      "common academic words",
+      "varied tenses and relative clauses"
+    ]
+  },
+  "topic": {
+    "id": "B1-241",
+    "domain": "Environment",
+    "title": "Environment: How a small Danish island became energy self-sufficient",
+    "focus": "How a small Danish island became energy self-sufficient"
+  },
+  "recommended_time_minutes": 25,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-10. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "A community experiment",
+        "text": "In 1997, the Danish island of Samsø won a government competition to become the country's first renewable energy community. At the time, the island's four thousand residents imported almost all of their electricity and heating oil from the mainland. Few people believed that farmers and fishermen could transform their energy supply within a decade. Yet the project's leader, an engineer named Søren Hermansen, insisted that the change had to come from the islanders themselves rather than from outside investors."
+      },
+      {
+        "paragraph": 2,
+        "heading": "Turning wind into ownership",
+        "text": "The first step was wind power. Eleven large turbines were built on land between 1998 and 2002, and crucially, many turbines are owned collectively by residents who bought shares in them. A single share cost roughly the price of a used car, and more than four hundred and fifty islanders became co-owners. Because the profits stayed on the island, even people who had opposed the turbines at first began to see them as a shared investment rather than an intrusion on the landscape."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Resistance and persuasion",
+        "text": "Not everyone welcomed the plans. Several farmers initially refused to allow cables to cross their fields, and some residents worried that the turbines would spoil the island's quiet character and harm tourism. Hermansen spent years attending village meetings, drinking coffee in farmhouse kitchens, and adjusting the plans. In one case, a turbine site was moved half a kilometre simply to keep the peace between two neighbouring families."
+      },
+      {
+        "paragraph": 4,
+        "heading": "Heat from straw and sun",
+        "text": "Electricity was only part of the answer. The island also built district heating plants that burn local straw, a waste product from the farms, to warm most of the houses in the main villages. Solar panels cover the roof of one plant, and surplus heat is stored in large water tanks for cloudy days. Farmers who once burned their straw in the fields now sell it, which gives them a new source of income."
+      },
+      {
+        "paragraph": 5,
+        "heading": "An exportable idea",
+        "text": "By 2007, Samsø produced more renewable electricity than it consumed, and today the island exports its surplus electricity to the Danish mainland through an undersea cable. Visitors arrive from Japan, the United States, and across Europe to study the model. Hermansen's energy academy now teaches other communities that the technology matters less than the trust between neighbours, because, as he often says, machines do not vote at village meetings."
+      }
+    ],
+    "full_text": "Paragraph 1 — A community experiment\nIn 1997, the Danish island of Samsø won a government competition to become the country's first renewable energy community. At the time, the island's four thousand residents imported almost all of their electricity and heating oil from the mainland. Few people believed that farmers and fishermen could transform their energy supply within a decade. Yet the project's leader, an engineer named Søren Hermansen, insisted that the change had to come from the islanders themselves rather than from outside investors.\n\nParagraph 2 — Turning wind into ownership\nThe first step was wind power. Eleven large turbines were built on land between 1998 and 2002, and crucially, many turbines are owned collectively by residents who bought shares in them. A single share cost roughly the price of a used car, and more than four hundred and fifty islanders became co-owners. Because the profits stayed on the island, even people who had opposed the turbines at first began to see them as a shared investment rather than an intrusion on the landscape.\n\nParagraph 3 — Resistance and persuasion\nNot everyone welcomed the plans. Several farmers initially refused to allow cables to cross their fields, and some residents worried that the turbines would spoil the island's quiet character and harm tourism. Hermansen spent years attending village meetings, drinking coffee in farmhouse kitchens, and adjusting the plans. In one case, a turbine site was moved half a kilometre simply to keep the peace between two neighbouring families.\n\nParagraph 4 — Heat from straw and sun\nElectricity was only part of the answer. The island also built district heating plants that burn local straw, a waste product from the farms, to warm most of the houses in the main villages. Solar panels cover the roof of one plant, and surplus heat is stored in large water tanks for cloudy days. Farmers who once burned their straw in the fields now sell it, which gives them a new source of income.\n\nParagraph 5 — An exportable idea\nBy 2007, Samsø produced more renewable electricity than it consumed, and today the island exports its surplus electricity to the Danish mainland through an undersea cable. Visitors arrive from Japan, the United States, and across Europe to study the model. Hermansen's energy academy now teaches other communities that the technology matters less than the trust between neighbours, because, as he often says, machines do not vote at village meetings."
+  },
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "B1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "A community experiment",
+        "anchor": "won a government competition"
+      },
+      "explanation": "Paragraph 1 says the island won a 1997 government competition to become a renewable energy community. The EU, an oil shortage, and foreign investors are never mentioned as the cause.",
+      "question": "What started Samsø's renewable energy project?",
+      "options": [
+        "Winning a government competition in 1997",
+        "An order from the European Union",
+        "A shortage of heating oil on the island",
+        "Investment from foreign energy companies"
+      ],
+      "answer": "A",
+      "answer_text": "Winning a government competition in 1997"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "B1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "A community experiment",
+        "anchor": "the change had to come from the islanders themselves rather than from outside investors"
+      },
+      "explanation": "Paragraph 1 states the opposite: Hermansen insisted the change had to come from the islanders themselves.",
+      "statement": "Søren Hermansen believed outside investors should lead the project.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "B1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "Turning wind into ownership",
+        "anchor": "more than four hundred and fifty islanders became co-owners"
+      },
+      "explanation": "Paragraph 2 gives this word directly when describing the share scheme.",
+      "question": "More than four hundred and fifty islanders became ____ of the wind turbines.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "co-owners"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "B1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Resistance and persuasion",
+        "anchor": "Hermansen spent years attending village meetings"
+      },
+      "explanation": "Only paragraph 3 deals with resistance and how it was overcome through personal persuasion.",
+      "question": "Which paragraph describes how disagreements with farmers were resolved?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 3"
+    },
+    {
+      "id": "Q05",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "B1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Resistance and persuasion",
+        "anchor": "worried that the turbines would spoil the island's quiet character and harm tourism"
+      },
+      "explanation": "The passage mentions a fear about tourism but never says what actually happened to visitor numbers, so the statement cannot be verified.",
+      "statement": "Tourism on Samsø increased after the turbines were built.",
+      "answer": "NOT GIVEN"
+    },
+    {
+      "id": "Q06",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "B1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Heat from straw and sun",
+        "anchor": "district heating plants that burn local straw"
+      },
+      "explanation": "Paragraph 4 names the fuel directly.",
+      "question": "What do the district heating plants burn to warm houses?",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "local straw"
+    },
+    {
+      "id": "Q07",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "B1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Heat from straw and sun",
+        "anchor": "now sell it, which gives them a new source of income"
+      },
+      "explanation": "Paragraph 4 explains that farmers who once burned straw in the fields now sell it as fuel, creating income. The other options are not stated.",
+      "question": "Why did farmers benefit from the heating plants?",
+      "options": [
+        "They received free heating for their farms",
+        "They could sell straw they once burned in the fields",
+        "They were paid to store hot water tanks",
+        "They no longer needed to grow crops"
+      ],
+      "answer": "B",
+      "answer_text": "They could sell straw they once burned in the fields"
+    },
+    {
+      "id": "Q08",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "B1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "An exportable idea",
+        "anchor": "exports its surplus electricity to the Danish mainland"
+      },
+      "explanation": "Paragraph 5 describes the undersea cable exporting surplus power.",
+      "question": "Which paragraph explains where the island's extra electricity goes?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 5"
+    },
+    {
+      "id": "Q09",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "B1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Heat from straw and sun",
+        "anchor": "surplus heat is stored in large water tanks"
+      },
+      "explanation": "The phrase appears verbatim in paragraph 4.",
+      "question": "Surplus heat is stored in large ____ for cloudy days.",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "water tanks"
+    },
+    {
+      "id": "Q10",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "B1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "An exportable idea",
+        "anchor": "the technology matters less than the trust between neighbours"
+      },
+      "explanation": "Paragraph 5 quotes this as the main lesson of the energy academy.",
+      "question": "According to Hermansen, what matters more than the technology?",
+      "word_limit": "NO MORE THAN FOUR WORDS",
+      "answer": "trust between neighbours"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 says the island won a 1997 government competition to become a renewable energy community. The EU, an oil shortage, and foreign investors are never mentioned as the cause."
+    },
+    {
+      "id": "Q02",
+      "answer": "FALSE",
+      "explanation": "Paragraph 1 states the opposite: Hermansen insisted the change had to come from the islanders themselves."
+    },
+    {
+      "id": "Q03",
+      "answer": "co-owners",
+      "explanation": "Paragraph 2 gives this word directly when describing the share scheme."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 3",
+      "explanation": "Only paragraph 3 deals with resistance and how it was overcome through personal persuasion."
+    },
+    {
+      "id": "Q05",
+      "answer": "NOT GIVEN",
+      "explanation": "The passage mentions a fear about tourism but never says what actually happened to visitor numbers, so the statement cannot be verified."
+    },
+    {
+      "id": "Q06",
+      "answer": "local straw",
+      "explanation": "Paragraph 4 names the fuel directly."
+    },
+    {
+      "id": "Q07",
+      "answer": "B",
+      "explanation": "Paragraph 4 explains that farmers who once burned straw in the fields now sell it as fuel, creating income. The other options are not stated."
+    },
+    {
+      "id": "Q08",
+      "answer": "Paragraph 5",
+      "explanation": "Paragraph 5 describes the undersea cable exporting surplus power."
+    },
+    {
+      "id": "Q09",
+      "answer": "water tanks",
+      "explanation": "The phrase appears verbatim in paragraph 4."
+    },
+    {
+      "id": "Q10",
+      "answer": "trust between neighbours",
+      "explanation": "Paragraph 5 quotes this as the main lesson of the energy academy."
+    }
+  ]
+}

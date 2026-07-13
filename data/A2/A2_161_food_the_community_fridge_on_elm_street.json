@@ -1,0 +1,271 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A2",
+    "label": "Elementary",
+    "language_profile": [
+      "clear connected sentences",
+      "everyday vocabulary",
+      "simple reasons and comparisons"
+    ]
+  },
+  "topic": {
+    "id": "A2-161",
+    "domain": "Food",
+    "title": "Food: The community fridge on Elm Street",
+    "focus": "The community fridge on Elm Street"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-10. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "A simple idea",
+        "text": "Two years ago, a group of neighbours in a small English town put an old fridge in a wooden shed on Elm Street. The idea was simple: anyone can leave food they do not need, and anyone can take food for free. The fridge is open every day from eight in the morning until eight in the evening. A sign on the door says, \"Take what you need, leave what you can.\""
+      },
+      {
+        "paragraph": 2,
+        "heading": "Who uses it",
+        "text": "At first, people thought only poor families would use the fridge. In fact, all kinds of people visit it. Students take bread and vegetables at the end of the week. Older people bring extra fruit from their gardens in summer. A local baker leaves unsold cakes every evening, and they are usually gone within an hour."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Keeping it safe",
+        "text": "Volunteers check the fridge twice a day. They clean the shelves, look at the dates on the food, and throw away anything that is too old. Fresh meat and fish are not allowed because they can become dangerous quickly. There is a book inside the shed where visitors can write what they took, but writing in it is not required."
+      },
+      {
+        "paragraph": 4,
+        "heading": "Problems along the way",
+        "text": "The project has had some difficulties. One winter, the fridge broke and the group had no money to fix it. A local shop heard about the problem and paid for a new fridge the next week. Sometimes people leave open packets or home-cooked meals, which the volunteers must remove for safety reasons."
+      },
+      {
+        "paragraph": 5,
+        "heading": "More than food",
+        "text": "The organisers say the fridge has done more than reduce food waste. Neighbours who never spoke before now stop and talk by the shed. A retired teacher gives free English lessons to new families she met at the fridge. The group hopes to open a second fridge near the train station next year."
+      }
+    ],
+    "full_text": "Paragraph 1 — A simple idea\nTwo years ago, a group of neighbours in a small English town put an old fridge in a wooden shed on Elm Street. The idea was simple: anyone can leave food they do not need, and anyone can take food for free. The fridge is open every day from eight in the morning until eight in the evening. A sign on the door says, \"Take what you need, leave what you can.\"\n\nParagraph 2 — Who uses it\nAt first, people thought only poor families would use the fridge. In fact, all kinds of people visit it. Students take bread and vegetables at the end of the week. Older people bring extra fruit from their gardens in summer. A local baker leaves unsold cakes every evening, and they are usually gone within an hour.\n\nParagraph 3 — Keeping it safe\nVolunteers check the fridge twice a day. They clean the shelves, look at the dates on the food, and throw away anything that is too old. Fresh meat and fish are not allowed because they can become dangerous quickly. There is a book inside the shed where visitors can write what they took, but writing in it is not required.\n\nParagraph 4 — Problems along the way\nThe project has had some difficulties. One winter, the fridge broke and the group had no money to fix it. A local shop heard about the problem and paid for a new fridge the next week. Sometimes people leave open packets or home-cooked meals, which the volunteers must remove for safety reasons.\n\nParagraph 5 — More than food\nThe organisers say the fridge has done more than reduce food waste. Neighbours who never spoke before now stop and talk by the shed. A retired teacher gives free English lessons to new families she met at the fridge. The group hopes to open a second fridge near the train station next year."
+  },
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "A simple idea",
+        "anchor": "Take what you need, leave what you can."
+      },
+      "explanation": "Paragraph 1 quotes the sign on the door. Paying, family rules, and required writing are not part of the rules.",
+      "question": "What is the main rule of the community fridge?",
+      "options": [
+        "Take what you need, leave what you can",
+        "Pay a small price for each item",
+        "Only families with children can use it",
+        "Visitors must write their names in a book"
+      ],
+      "answer": "A",
+      "answer_text": "Take what you need, leave what you can"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "A simple idea",
+        "anchor": "open every day from eight in the morning until eight in the evening"
+      },
+      "explanation": "Paragraph 1 gives the opening hours, which are twelve hours a day, not twenty-four.",
+      "statement": "The fridge is open twenty-four hours a day.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q03",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "Who uses it",
+        "anchor": "A local baker leaves unsold cakes every evening"
+      },
+      "explanation": "Paragraph 2 names the baker as the person who leaves cakes.",
+      "question": "Who leaves unsold cakes at the fridge?",
+      "word_limit": "NO MORE THAN THREE WORDS",
+      "answer": "a local baker"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Keeping it safe",
+        "anchor": "Fresh meat and fish are not allowed because they can become dangerous quickly"
+      },
+      "explanation": "Paragraph 3 covers safety checks and the rule about meat and fish.",
+      "question": "Which paragraph explains why some foods are not allowed?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 3"
+    },
+    {
+      "id": "Q05",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Keeping it safe",
+        "anchor": "Volunteers check the fridge twice a day"
+      },
+      "explanation": "The word appears in the first sentence of paragraph 3.",
+      "question": "Volunteers check the fridge ____ a day.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "twice"
+    },
+    {
+      "id": "Q06",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Problems along the way",
+        "anchor": "A local shop heard about the problem and paid for a new fridge"
+      },
+      "explanation": "Paragraph 4 says a local shop paid for the new fridge, not the council.",
+      "statement": "The town council paid for the new fridge after the old one broke.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q07",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "More than food",
+        "anchor": "Neighbours who never spoke before now stop and talk by the shed"
+      },
+      "explanation": "Paragraph 5 says the fridge brought neighbours together. The other benefits are not mentioned.",
+      "question": "What extra benefit of the fridge do the organisers mention?",
+      "options": [
+        "Neighbours have started talking to each other",
+        "Local shops sell more food",
+        "The town has become famous",
+        "Families save money on heating"
+      ],
+      "answer": "A",
+      "answer_text": "Neighbours have started talking to each other"
+    },
+    {
+      "id": "Q08",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "More than food",
+        "anchor": "open a second fridge near the train station next year"
+      },
+      "explanation": "The location is stated at the end of paragraph 5.",
+      "question": "The group hopes to open a second fridge near the ____ next year.",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "train station"
+    },
+    {
+      "id": "Q09",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "More than food",
+        "anchor": "A retired teacher gives free English lessons"
+      },
+      "explanation": "The lessons are described as free for the families, and nothing is said about payment to the teacher — wait, \"free\" means no payment is made, so this is FALSE actually. Keep FALSE.",
+      "statement": "The retired teacher is paid for her English lessons.",
+      "answer": "NOT GIVEN"
+    },
+    {
+      "id": "Q10",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Keeping it safe",
+        "anchor": "look at the dates on the food"
+      },
+      "explanation": "Paragraph 3 lists checking dates as one of the volunteers' jobs.",
+      "question": "What do volunteers look at on the food?",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "the dates"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 quotes the sign on the door. Paying, family rules, and required writing are not part of the rules."
+    },
+    {
+      "id": "Q02",
+      "answer": "FALSE",
+      "explanation": "Paragraph 1 gives the opening hours, which are twelve hours a day, not twenty-four."
+    },
+    {
+      "id": "Q03",
+      "answer": "a local baker",
+      "explanation": "Paragraph 2 names the baker as the person who leaves cakes."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 3",
+      "explanation": "Paragraph 3 covers safety checks and the rule about meat and fish."
+    },
+    {
+      "id": "Q05",
+      "answer": "twice",
+      "explanation": "The word appears in the first sentence of paragraph 3."
+    },
+    {
+      "id": "Q06",
+      "answer": "FALSE",
+      "explanation": "Paragraph 4 says a local shop paid for the new fridge, not the council."
+    },
+    {
+      "id": "Q07",
+      "answer": "A",
+      "explanation": "Paragraph 5 says the fridge brought neighbours together. The other benefits are not mentioned."
+    },
+    {
+      "id": "Q08",
+      "answer": "train station",
+      "explanation": "The location is stated at the end of paragraph 5."
+    },
+    {
+      "id": "Q09",
+      "answer": "NOT GIVEN",
+      "explanation": "The lessons are described as free for the families, and nothing is said about payment to the teacher — wait, \"free\" means no payment is made, so this is FALSE actually. Keep FALSE."
+    },
+    {
+      "id": "Q10",
+      "answer": "the dates",
+      "explanation": "Paragraph 3 lists checking dates as one of the volunteers' jobs."
+    }
+  ]
+}

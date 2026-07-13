@@ -1,0 +1,627 @@
+{
+  "dataset_version": "2.0-large",
+  "content_status": "Original synthetic IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "short, concrete sentences",
+      "common daily vocabulary",
+      "directly stated facts"
+    ]
+  },
+  "topic": {
+    "id": "A1-040",
+    "domain": "Cities",
+    "title": "Cities: Future choices and governance in Human-Centred Public Spaces",
+    "focus": "how long-term decisions are made and reviewed"
+  },
+  "recommended_time_minutes": 25,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-25. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "Background",
+        "text": "In this cities case, human-centred public spaces are examined through how long-term decisions are made and reviewed. Late morning is usually busy. This is detail 1 in paragraph 1. Volunteers check the rooms before closing. This is detail 2 in paragraph 1. A board shows the weekly programme. This is detail 3 in paragraph 1. People bring a water bottle. This is detail 4 in paragraph 1."
+      },
+      {
+        "paragraph": 2,
+        "heading": "How it operates",
+        "text": "In this cities case, human-centred public spaces are examined through how long-term decisions are made and reviewed. A bus stop is across the road. This is detail 1 in paragraph 2. Lost items stay for fourteen days. This is detail 2 in paragraph 2. Feedback cards are beside the exit. This is detail 3 in paragraph 2. The project is near the centre of the town. This is detail 4 in paragraph 2."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Evidence and experience",
+        "text": "In this cities case, human-centred public spaces are examined through how long-term decisions are made and reviewed. People join with a short form. This is detail 1 in paragraph 3. A small team explains the rules. This is detail 2 in paragraph 3. Most activities are free. This is detail 3 in paragraph 3. Visitors ask for help at the desk. This is detail 4 in paragraph 3."
+      },
+      {
+        "paragraph": 4,
+        "heading": "Challenges",
+        "text": "In this cities case, human-centred public spaces are examined through how long-term decisions are made and reviewed. Families often come at the weekend. This is detail 1 in paragraph 4. Late morning is usually busy. This is detail 2 in paragraph 4. Volunteers check the rooms before closing. This is detail 3 in paragraph 4. A board shows the weekly programme. This is detail 4 in paragraph 4."
+      },
+      {
+        "paragraph": 5,
+        "heading": "Next steps",
+        "text": "In this cities case, human-centred public spaces are examined through how long-term decisions are made and reviewed. The entrance has step-free access. This is detail 1 in paragraph 5. A bus stop is across the road. This is detail 2 in paragraph 5. Lost items stay for fourteen days. This is detail 3 in paragraph 5. Feedback cards are beside the exit. This is detail 4 in paragraph 5."
+      }
+    ],
+    "full_text": "Paragraph 1 — Background\nIn this cities case, human-centred public spaces are examined through how long-term decisions are made and reviewed. Late morning is usually busy. This is detail 1 in paragraph 1. Volunteers check the rooms before closing. This is detail 2 in paragraph 1. A board shows the weekly programme. This is detail 3 in paragraph 1. People bring a water bottle. This is detail 4 in paragraph 1.\n\nParagraph 2 — How it operates\nIn this cities case, human-centred public spaces are examined through how long-term decisions are made and reviewed. A bus stop is across the road. This is detail 1 in paragraph 2. Lost items stay for fourteen days. This is detail 2 in paragraph 2. Feedback cards are beside the exit. This is detail 3 in paragraph 2. The project is near the centre of the town. This is detail 4 in paragraph 2.\n\nParagraph 3 — Evidence and experience\nIn this cities case, human-centred public spaces are examined through how long-term decisions are made and reviewed. People join with a short form. This is detail 1 in paragraph 3. A small team explains the rules. This is detail 2 in paragraph 3. Most activities are free. This is detail 3 in paragraph 3. Visitors ask for help at the desk. This is detail 4 in paragraph 3.\n\nParagraph 4 — Challenges\nIn this cities case, human-centred public spaces are examined through how long-term decisions are made and reviewed. Families often come at the weekend. This is detail 1 in paragraph 4. Late morning is usually busy. This is detail 2 in paragraph 4. Volunteers check the rooms before closing. This is detail 3 in paragraph 4. A board shows the weekly programme. This is detail 4 in paragraph 4.\n\nParagraph 5 — Next steps\nIn this cities case, human-centred public spaces are examined through how long-term decisions are made and reviewed. The entrance has step-free access. This is detail 1 in paragraph 5. A bus stop is across the road. This is detail 2 in paragraph 5. Lost items stay for fourteen days. This is detail 3 in paragraph 5. Feedback cards are beside the exit. This is detail 4 in paragraph 5."
+  },
+  "question_count": 25,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Background",
+        "anchor": "Topic 040, paragraph 1, detail 1"
+      },
+      "explanation": "The answer is supported by paragraph 1 under “Background”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 1, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "How does the passage present Topic 040, paragraph 1, detail 1?",
+      "options": [
+        "It is explained in paragraph 1 as part of background.",
+        "It is rejected completely because the actors have no role.",
+        "It is presented as a national law that applies without exceptions.",
+        "It is mentioned only as an unrelated historical event."
+      ],
+      "answer": "A",
+      "answer_text": "It is explained in paragraph 1 as part of background."
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How it operates",
+        "anchor": "Topic 040, paragraph 2, detail 2"
+      },
+      "explanation": "The answer is supported by paragraph 2 under “How it operates”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 2, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "statement": "The passage discusses Topic 040, paragraph 2, detail 2 in the section headed “How it operates”.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q03",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Evidence and experience",
+        "anchor": "Topic 040, paragraph 3, detail 3"
+      },
+      "explanation": "The answer is supported by paragraph 3 under “Evidence and experience”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 3, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Which paragraph contains information identified as Topic 040, paragraph 3, detail 3?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 3"
+    },
+    {
+      "id": "Q04",
+      "type": "sentence_completion",
+      "skill": "main_idea",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Challenges",
+        "anchor": "Topic 040, paragraph 4, detail 4"
+      },
+      "explanation": "The answer is supported by paragraph 4 under “Challenges”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 4, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Complete the sentence: The discussion of Topic 040, paragraph 4, detail 4 appears under the heading ____.",
+      "word_limit": "NO MORE THAN FOUR WORDS",
+      "answer": "Challenges"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "writer_purpose",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Next steps",
+        "anchor": "Topic 040, paragraph 5, detail 1"
+      },
+      "explanation": "The answer is supported by paragraph 5 under “Next steps”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 5, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Which paragraph should a reader consult to verify Topic 040, paragraph 5, detail 1, and what is its heading?",
+      "word_limit": "NO MORE THAN EIGHT WORDS",
+      "answer": "Paragraph 5, Next steps"
+    },
+    {
+      "id": "Q06",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Background",
+        "anchor": "Topic 040, paragraph 1, detail 2"
+      },
+      "explanation": "The answer is supported by paragraph 1 under “Background”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 1, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "How does the passage present Topic 040, paragraph 1, detail 2?",
+      "options": [
+        "It is rejected completely because the actors have no role.",
+        "It is presented as a national law that applies without exceptions.",
+        "It is mentioned only as an unrelated historical event.",
+        "It is explained in paragraph 1 as part of background."
+      ],
+      "answer": "D",
+      "answer_text": "It is explained in paragraph 1 as part of background."
+    },
+    {
+      "id": "Q07",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How it operates",
+        "anchor": "Topic 040, paragraph 2, detail 3"
+      },
+      "explanation": "The answer is supported by paragraph 2 under “How it operates”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 2, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "statement": "The passage discusses Topic 040, paragraph 2, detail 3 in the section headed “How it operates”.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q08",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Evidence and experience",
+        "anchor": "Topic 040, paragraph 3, detail 4"
+      },
+      "explanation": "The answer is supported by paragraph 3 under “Evidence and experience”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 3, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Which paragraph contains information identified as Topic 040, paragraph 3, detail 4?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 3"
+    },
+    {
+      "id": "Q09",
+      "type": "sentence_completion",
+      "skill": "main_idea",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Challenges",
+        "anchor": "Topic 040, paragraph 4, detail 1"
+      },
+      "explanation": "The answer is supported by paragraph 4 under “Challenges”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 4, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Complete the sentence: The discussion of Topic 040, paragraph 4, detail 1 appears under the heading ____.",
+      "word_limit": "NO MORE THAN FOUR WORDS",
+      "answer": "Challenges"
+    },
+    {
+      "id": "Q10",
+      "type": "short_answer",
+      "skill": "writer_purpose",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Next steps",
+        "anchor": "Topic 040, paragraph 5, detail 2"
+      },
+      "explanation": "The answer is supported by paragraph 5 under “Next steps”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 5, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Which paragraph should a reader consult to verify Topic 040, paragraph 5, detail 2, and what is its heading?",
+      "word_limit": "NO MORE THAN EIGHT WORDS",
+      "answer": "Paragraph 5, Next steps"
+    },
+    {
+      "id": "Q11",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Background",
+        "anchor": "Topic 040, paragraph 1, detail 3"
+      },
+      "explanation": "The answer is supported by paragraph 1 under “Background”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 1, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "How does the passage present Topic 040, paragraph 1, detail 3?",
+      "options": [
+        "It is presented as a national law that applies without exceptions.",
+        "It is mentioned only as an unrelated historical event.",
+        "It is explained in paragraph 1 as part of background.",
+        "It is rejected completely because the actors have no role."
+      ],
+      "answer": "C",
+      "answer_text": "It is explained in paragraph 1 as part of background."
+    },
+    {
+      "id": "Q12",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How it operates",
+        "anchor": "Topic 040, paragraph 2, detail 4"
+      },
+      "explanation": "The answer is supported by paragraph 2 under “How it operates”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 2, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "statement": "The passage discusses Topic 040, paragraph 2, detail 4 in the section headed “How it operates”.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q13",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Evidence and experience",
+        "anchor": "Topic 040, paragraph 3, detail 1"
+      },
+      "explanation": "The answer is supported by paragraph 3 under “Evidence and experience”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 3, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Which paragraph contains information identified as Topic 040, paragraph 3, detail 1?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 3"
+    },
+    {
+      "id": "Q14",
+      "type": "sentence_completion",
+      "skill": "main_idea",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Challenges",
+        "anchor": "Topic 040, paragraph 4, detail 2"
+      },
+      "explanation": "The answer is supported by paragraph 4 under “Challenges”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 4, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Complete the sentence: The discussion of Topic 040, paragraph 4, detail 2 appears under the heading ____.",
+      "word_limit": "NO MORE THAN FOUR WORDS",
+      "answer": "Challenges"
+    },
+    {
+      "id": "Q15",
+      "type": "short_answer",
+      "skill": "writer_purpose",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Next steps",
+        "anchor": "Topic 040, paragraph 5, detail 3"
+      },
+      "explanation": "The answer is supported by paragraph 5 under “Next steps”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 5, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Which paragraph should a reader consult to verify Topic 040, paragraph 5, detail 3, and what is its heading?",
+      "word_limit": "NO MORE THAN EIGHT WORDS",
+      "answer": "Paragraph 5, Next steps"
+    },
+    {
+      "id": "Q16",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Background",
+        "anchor": "Topic 040, paragraph 1, detail 4"
+      },
+      "explanation": "The answer is supported by paragraph 1 under “Background”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 1, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "How does the passage present Topic 040, paragraph 1, detail 4?",
+      "options": [
+        "It is mentioned only as an unrelated historical event.",
+        "It is explained in paragraph 1 as part of background.",
+        "It is rejected completely because the actors have no role.",
+        "It is presented as a national law that applies without exceptions."
+      ],
+      "answer": "B",
+      "answer_text": "It is explained in paragraph 1 as part of background."
+    },
+    {
+      "id": "Q17",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How it operates",
+        "anchor": "Topic 040, paragraph 2, detail 1"
+      },
+      "explanation": "The answer is supported by paragraph 2 under “How it operates”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 2, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "statement": "The passage discusses Topic 040, paragraph 2, detail 1 in the section headed “How it operates”.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q18",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Evidence and experience",
+        "anchor": "Topic 040, paragraph 3, detail 2"
+      },
+      "explanation": "The answer is supported by paragraph 3 under “Evidence and experience”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 3, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Which paragraph contains information identified as Topic 040, paragraph 3, detail 2?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 3"
+    },
+    {
+      "id": "Q19",
+      "type": "sentence_completion",
+      "skill": "main_idea",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Challenges",
+        "anchor": "Topic 040, paragraph 4, detail 3"
+      },
+      "explanation": "The answer is supported by paragraph 4 under “Challenges”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 4, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Complete the sentence: The discussion of Topic 040, paragraph 4, detail 3 appears under the heading ____.",
+      "word_limit": "NO MORE THAN FOUR WORDS",
+      "answer": "Challenges"
+    },
+    {
+      "id": "Q20",
+      "type": "short_answer",
+      "skill": "writer_purpose",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Next steps",
+        "anchor": "Topic 040, paragraph 5, detail 4"
+      },
+      "explanation": "The answer is supported by paragraph 5 under “Next steps”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 5, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Which paragraph should a reader consult to verify Topic 040, paragraph 5, detail 4, and what is its heading?",
+      "word_limit": "NO MORE THAN EIGHT WORDS",
+      "answer": "Paragraph 5, Next steps"
+    },
+    {
+      "id": "Q21",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Background",
+        "anchor": "Topic 040, paragraph 1, detail 1"
+      },
+      "explanation": "The answer is supported by paragraph 1 under “Background”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 1, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "How does the passage present Topic 040, paragraph 1, detail 1?",
+      "options": [
+        "It is explained in paragraph 1 as part of background.",
+        "It is rejected completely because the actors have no role.",
+        "It is presented as a national law that applies without exceptions.",
+        "It is mentioned only as an unrelated historical event."
+      ],
+      "answer": "A",
+      "answer_text": "It is explained in paragraph 1 as part of background."
+    },
+    {
+      "id": "Q22",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How it operates",
+        "anchor": "Topic 040, paragraph 2, detail 2"
+      },
+      "explanation": "The answer is supported by paragraph 2 under “How it operates”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 2, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "statement": "The passage discusses Topic 040, paragraph 2, detail 2 in the section headed “How it operates”.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q23",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Evidence and experience",
+        "anchor": "Topic 040, paragraph 3, detail 3"
+      },
+      "explanation": "The answer is supported by paragraph 3 under “Evidence and experience”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 3, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Which paragraph contains information identified as Topic 040, paragraph 3, detail 3?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 3"
+    },
+    {
+      "id": "Q24",
+      "type": "sentence_completion",
+      "skill": "main_idea",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Challenges",
+        "anchor": "Topic 040, paragraph 4, detail 4"
+      },
+      "explanation": "The answer is supported by paragraph 4 under “Challenges”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 4, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Complete the sentence: The discussion of Topic 040, paragraph 4, detail 4 appears under the heading ____.",
+      "word_limit": "NO MORE THAN FOUR WORDS",
+      "answer": "Challenges"
+    },
+    {
+      "id": "Q25",
+      "type": "short_answer",
+      "skill": "writer_purpose",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Next steps",
+        "anchor": "Topic 040, paragraph 5, detail 1"
+      },
+      "explanation": "The answer is supported by paragraph 5 under “Next steps”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 5, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text.",
+      "question": "Which paragraph should a reader consult to verify Topic 040, paragraph 5, detail 1, and what is its heading?",
+      "word_limit": "NO MORE THAN EIGHT WORDS",
+      "answer": "Paragraph 5, Next steps"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "The answer is supported by paragraph 1 under “Background”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 1, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q02",
+      "answer": "TRUE",
+      "explanation": "The answer is supported by paragraph 2 under “How it operates”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 2, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q03",
+      "answer": "Paragraph 3",
+      "explanation": "The answer is supported by paragraph 3 under “Evidence and experience”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 3, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q04",
+      "answer": "Challenges",
+      "explanation": "The answer is supported by paragraph 4 under “Challenges”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 4, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q05",
+      "answer": "Paragraph 5, Next steps",
+      "explanation": "The answer is supported by paragraph 5 under “Next steps”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 5, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q06",
+      "answer": "D",
+      "explanation": "The answer is supported by paragraph 1 under “Background”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 1, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q07",
+      "answer": "TRUE",
+      "explanation": "The answer is supported by paragraph 2 under “How it operates”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 2, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q08",
+      "answer": "Paragraph 3",
+      "explanation": "The answer is supported by paragraph 3 under “Evidence and experience”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 3, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q09",
+      "answer": "Challenges",
+      "explanation": "The answer is supported by paragraph 4 under “Challenges”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 4, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q10",
+      "answer": "Paragraph 5, Next steps",
+      "explanation": "The answer is supported by paragraph 5 under “Next steps”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 5, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q11",
+      "answer": "C",
+      "explanation": "The answer is supported by paragraph 1 under “Background”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 1, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q12",
+      "answer": "TRUE",
+      "explanation": "The answer is supported by paragraph 2 under “How it operates”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 2, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q13",
+      "answer": "Paragraph 3",
+      "explanation": "The answer is supported by paragraph 3 under “Evidence and experience”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 3, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q14",
+      "answer": "Challenges",
+      "explanation": "The answer is supported by paragraph 4 under “Challenges”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 4, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q15",
+      "answer": "Paragraph 5, Next steps",
+      "explanation": "The answer is supported by paragraph 5 under “Next steps”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 5, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q16",
+      "answer": "B",
+      "explanation": "The answer is supported by paragraph 1 under “Background”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 1, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q17",
+      "answer": "TRUE",
+      "explanation": "The answer is supported by paragraph 2 under “How it operates”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 2, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q18",
+      "answer": "Paragraph 3",
+      "explanation": "The answer is supported by paragraph 3 under “Evidence and experience”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 3, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q19",
+      "answer": "Challenges",
+      "explanation": "The answer is supported by paragraph 4 under “Challenges”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 4, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q20",
+      "answer": "Paragraph 5, Next steps",
+      "explanation": "The answer is supported by paragraph 5 under “Next steps”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 5, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q21",
+      "answer": "A",
+      "explanation": "The answer is supported by paragraph 1 under “Background”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 1, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q22",
+      "answer": "TRUE",
+      "explanation": "The answer is supported by paragraph 2 under “How it operates”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 2, detail 2. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q23",
+      "answer": "Paragraph 3",
+      "explanation": "The answer is supported by paragraph 3 under “Evidence and experience”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 3, detail 3. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q24",
+      "answer": "Challenges",
+      "explanation": "The answer is supported by paragraph 4 under “Challenges”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 4, detail 4. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    },
+    {
+      "id": "Q25",
+      "answer": "Paragraph 5, Next steps",
+      "explanation": "The answer is supported by paragraph 5 under “Next steps”. The relevant statement explicitly connects cities: future choices and governance in human-centred public spaces with topic 040, paragraph 5, detail 1. Distractors either refer to another paragraph, reverse the stated relationship, or introduce information absent from the text."
+    }
+  ],
+  "metadata": {
+    "created": "2026-07-13",
+    "encoding": "UTF-8",
+    "intended_use": [
+      "self-study",
+      "question-bank import",
+      "teacher adaptation"
+    ],
+    "tags": [
+      "A1",
+      "cities",
+      "future choices and governance",
+      "reading",
+      "IELTS-style"
+    ]
+  }
+}

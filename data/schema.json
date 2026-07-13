@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "IELTS-style reading topic",
+  "type": "object",
+  "required": [
+    "cefr",
+    "topic",
+    "passage",
+    "question_count",
+    "questions",
+    "answer_key"
+  ],
+  "properties": {
+    "question_count": {
+      "const": 25
+    },
+    "questions": {
+      "type": "array",
+      "minItems": 25,
+      "maxItems": 25
+    }
+  }
+}
