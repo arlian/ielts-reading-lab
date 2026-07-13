@@ -11,9 +11,9 @@
     "C2"
   ],
   "topics_per_level": 80,
-  "total_topics": 483,
+  "total_topics": 503,
   "questions_per_topic": 25,
-  "total_questions": 12028,
+  "total_questions": 12128,
   "content_note": "All content is original synthetic educational material.",
   "files": [
     {
@@ -4359,6 +4359,166 @@
       "title": "Psychology: The Jaipur Memory Project: retraining people to forget safely",
       "file": "B2/B2_321_psychology_the_jaipur_memory_project_retraining_people_to.json",
       "questions": 8
+    },
+    {
+      "id": "A1-081",
+      "level": "A1",
+      "domain": "Food",
+      "title": "Food: The school lunch project in Lima",
+      "file": "A1/A1_081_food_the_school_lunch_project_in_lima.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-082",
+      "level": "A1",
+      "domain": "Education",
+      "title": "Education: Learning English in a small village",
+      "file": "A1/A1_082_education_learning_english_in_a_small_village.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-083",
+      "level": "A1",
+      "domain": "Health",
+      "title": "Health: A hospital for animals in Kenya",
+      "file": "A1/A1_083_health_a_hospital_for_animals_in_kenya.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-084",
+      "level": "A1",
+      "domain": "Environment",
+      "title": "Environment: A girl plants trees in Bangladesh",
+      "file": "A1/A1_084_environment_a_girl_plants_trees_in_bangladesh.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-085",
+      "level": "A1",
+      "domain": "Work",
+      "title": "Work: Learning to fix motorcycles in Thailand",
+      "file": "A1/A1_085_work_learning_to_fix_motorcycles_in_thailand.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-086",
+      "level": "A1",
+      "domain": "Technology",
+      "title": "Technology: Mobile phones help farmers in India",
+      "file": "A1/A1_086_technology_mobile_phones_help_farmers_in_india.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-087",
+      "level": "A1",
+      "domain": "Travel",
+      "title": "Travel: A bus for tourists in Morocco",
+      "file": "A1/A1_087_travel_a_bus_for_tourists_in_morocco.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-088",
+      "level": "A1",
+      "domain": "Culture",
+      "title": "Culture: Learning traditional music in Ghana",
+      "file": "A1/A1_088_culture_learning_traditional_music_in_ghana.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-089",
+      "level": "A1",
+      "domain": "Sports",
+      "title": "Sports: A soccer program for street children",
+      "file": "A1/A1_089_sports_a_soccer_program_for_street_children.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-090",
+      "level": "A1",
+      "domain": "Community",
+      "title": "Community: A water project in a dry village",
+      "file": "A1/A1_090_community_a_water_project_in_a_dry_village.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-091",
+      "level": "A1",
+      "domain": "Food",
+      "title": "Food: A small bakery helps the neighborhood",
+      "file": "A1/A1_091_food_a_small_bakery_helps_the_neighborhood.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-092",
+      "level": "A1",
+      "domain": "Education",
+      "title": "Education: A boy teaches other street children to read",
+      "file": "A1/A1_092_education_a_boy_teaches_other_street_children_to.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-093",
+      "level": "A1",
+      "domain": "Health",
+      "title": "Health: A dentist visits villages to help teeth",
+      "file": "A1/A1_093_health_a_dentist_visits_villages_to_help_teeth.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-094",
+      "level": "A1",
+      "domain": "Environment",
+      "title": "Environment: A school teaches children to save animals",
+      "file": "A1/A1_094_environment_a_school_teaches_children_to_save_animals.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-095",
+      "level": "A1",
+      "domain": "Work",
+      "title": "Work: A woman teaches sewing in a refugee camp",
+      "file": "A1/A1_095_work_a_woman_teaches_sewing_in_a_refugee.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-096",
+      "level": "A1",
+      "domain": "Technology",
+      "title": "Technology: Solar lamps replace candles in villages",
+      "file": "A1/A1_096_technology_solar_lamps_replace_candles_in_villages.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-097",
+      "level": "A1",
+      "domain": "Travel",
+      "title": "Travel: A youth builds bridges in remote areas",
+      "file": "A1/A1_097_travel_a_youth_builds_bridges_in_remote_areas.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-098",
+      "level": "A1",
+      "domain": "Culture",
+      "title": "Culture: Elderly people teach children traditional skills",
+      "file": "A1/A1_098_culture_elderly_people_teach_children_traditional_skills.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-099",
+      "level": "A1",
+      "domain": "Sports",
+      "title": "Sports: A volleyball team for girls changes lives",
+      "file": "A1/A1_099_sports_a_volleyball_team_for_girls_changes_lives.json",
+      "questions": 5
+    },
+    {
+      "id": "A1-100",
+      "level": "A1",
+      "domain": "Community",
+      "title": "Community: A community garden grows food and friendship",
+      "file": "A1/A1_100_community_a_community_garden_grows_food_and_friendship.json",
+      "questions": 5
     }
   ]
 }

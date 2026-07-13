@@ -1,0 +1,167 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-096",
+    "domain": "Technology",
+    "title": "Technology: Solar lamps replace candles in villages",
+    "focus": "Solar lamps replace candles in villages"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "Darkness after sunset",
+        "text": "In 2014, in many villages in Africa, people have no electricity. When the sun goes down, it is very dark. People use candles or oil lamps. These are dangerous. Children study with bad light. They hurt their eyes."
+      },
+      {
+        "paragraph": 2,
+        "heading": "Solar lamps arrive",
+        "text": "A group brings solar lamps to the villages. The lamps are small and cost 10 dollars each. During the day, the lamps get sunlight. At night, they give bright light. Families buy the lamps. One lamp lights the whole house."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Children study at night",
+        "text": "Now children can study after dark. They read books under the bright light. Their marks get better. They stay in school longer. Parents are very happy. They say the lamp changed their child's future."
+      },
+      {
+        "paragraph": 4,
+        "heading": "More than light",
+        "text": "Solar lamps do more than light homes. Mothers can sew at night. Shopkeepers can work longer hours. The lamps are safe. There are no fires. The lamps are cheap to use. After one year, the lamp pays for itself."
+      },
+      {
+        "paragraph": 5,
+        "heading": "Villages shine at night",
+        "text": "Now 30,000 families use solar lamps. The villages are safer at night. Criminals stay away from lit homes. Children's health is better. People sleep better. A simple solar lamp brought big changes to poor communities."
+      }
+    ],
+    "full_text": "Paragraph 1 — Darkness after sunset\nIn 2014, in many villages in Africa, people have no electricity. When the sun goes down, it is very dark. People use candles or oil lamps. These are dangerous. Children study with bad light. They hurt their eyes.\n\nParagraph 2 — Solar lamps arrive\nA group brings solar lamps to the villages. The lamps are small and cost 10 dollars each. During the day, the lamps get sunlight. At night, they give bright light. Families buy the lamps. One lamp lights the whole house.\n\nParagraph 3 — Children study at night\nNow children can study after dark. They read books under the bright light. Their marks get better. They stay in school longer. Parents are very happy. They say the lamp changed their child's future.\n\nParagraph 4 — More than light\nSolar lamps do more than light homes. Mothers can sew at night. Shopkeepers can work longer hours. The lamps are safe. There are no fires. The lamps are cheap to use. After one year, the lamp pays for itself.\n\nParagraph 5 — Villages shine at night\nNow 30,000 families use solar lamps. The villages are safer at night. Criminals stay away from lit homes. Children's health is better. People sleep better. A simple solar lamp brought big changes to poor communities."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Darkness after sunset",
+        "anchor": "people have no electricity. When the sun goes down, it is very dark"
+      },
+      "explanation": "Paragraph 1 clearly shows this problem.",
+      "question": "What problem do villages have before solar lamps?",
+      "options": [
+        "No electricity and dark after sunset",
+        "Too much heat",
+        "Broken roads",
+        "Bad food"
+      ],
+      "answer": "A",
+      "answer_text": "No electricity and dark after sunset"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "Solar lamps arrive",
+        "anchor": "cost 10 dollars each"
+      },
+      "explanation": "Paragraph 2 says the lamps cost 10 dollars, which is cheap.",
+      "statement": "Solar lamps are very expensive.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "Solar lamps arrive",
+        "anchor": "During the day, the lamps get sunlight"
+      },
+      "explanation": "Paragraph 2 explains how solar lamps work.",
+      "question": "During the day, the lamps get ____.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "sunlight"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Children study at night",
+        "anchor": "They read books under the bright light. Their marks get better"
+      },
+      "explanation": "Paragraph 3 is about how the lamps help children study.",
+      "question": "Which paragraph says children study better with the lamps?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 3"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Villages shine at night",
+        "anchor": "Now 30,000 families use solar lamps"
+      },
+      "explanation": "Paragraph 5 gives this number.",
+      "question": "How many families use solar lamps now?",
+      "word_limit": "NO MORE THAN FIVE WORDS",
+      "answer": "30,000 families"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 clearly shows this problem."
+    },
+    {
+      "id": "Q02",
+      "answer": "FALSE",
+      "explanation": "Paragraph 2 says the lamps cost 10 dollars, which is cheap."
+    },
+    {
+      "id": "Q03",
+      "answer": "sunlight",
+      "explanation": "Paragraph 2 explains how solar lamps work."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 3",
+      "explanation": "Paragraph 3 is about how the lamps help children study."
+    },
+    {
+      "id": "Q05",
+      "answer": "30,000 families",
+      "explanation": "Paragraph 5 gives this number."
+    }
+  ]
+}

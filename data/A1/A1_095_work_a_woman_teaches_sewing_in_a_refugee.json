@@ -1,0 +1,162 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-095",
+    "domain": "Work",
+    "title": "Work: A woman teaches sewing in a refugee camp",
+    "focus": "A woman teaches sewing in a refugee camp"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "A camp far from home",
+        "text": "In 2017, there is a refugee camp in Uganda. 5,000 people live here. They escaped from their country. They have nothing. A woman named Amira is 45 years old. She is good at sewing."
+      },
+      {
+        "paragraph": 2,
+        "heading": "Sewing class begins",
+        "text": "Amira starts a sewing class in her tent. Young women come to learn. She teaches them to sew clothes. She teaches them to fix clothes. The class is free. Amira does it with her heart."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Making clothes to sell",
+        "text": "After two months, the women make beautiful dresses and scarves. They sell them to people outside the camp. They earn good money. The money helps feed their families. The women are proud of their work. They have dignity."
+      },
+      {
+        "paragraph": 4,
+        "heading": "More than sewing",
+        "text": "The sewing class becomes very popular. Now 60 women come every week. Amira teaches them sewing, but also life skills. She teaches them to be strong. She teaches them to hope. The tent becomes a happy place."
+      },
+      {
+        "paragraph": 5,
+        "heading": "A future beyond the camp",
+        "text": "Today, some women have opened their own small shops. They make and sell clothes. They earn enough money to rent a house outside the camp. They leave the camp with hope and a job. Amira says needle and thread can give back freedom."
+      }
+    ],
+    "full_text": "Paragraph 1 — A camp far from home\nIn 2017, there is a refugee camp in Uganda. 5,000 people live here. They escaped from their country. They have nothing. A woman named Amira is 45 years old. She is good at sewing.\n\nParagraph 2 — Sewing class begins\nAmira starts a sewing class in her tent. Young women come to learn. She teaches them to sew clothes. She teaches them to fix clothes. The class is free. Amira does it with her heart.\n\nParagraph 3 — Making clothes to sell\nAfter two months, the women make beautiful dresses and scarves. They sell them to people outside the camp. They earn good money. The money helps feed their families. The women are proud of their work. They have dignity.\n\nParagraph 4 — More than sewing\nThe sewing class becomes very popular. Now 60 women come every week. Amira teaches them sewing, but also life skills. She teaches them to be strong. She teaches them to hope. The tent becomes a happy place.\n\nParagraph 5 — A future beyond the camp\nToday, some women have opened their own small shops. They make and sell clothes. They earn enough money to rent a house outside the camp. They leave the camp with hope and a job. Amira says needle and thread can give back freedom."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "Sewing class begins",
+        "anchor": "The class is free. Amira does it with her heart"
+      },
+      "explanation": "Paragraph 2 shows her motivation is to help. The class is free.",
+      "question": "Why does Amira teach sewing?",
+      "options": [
+        "To help refugee women earn money and feel proud",
+        "She has no other job",
+        "The government asks her to",
+        "She likes to teach"
+      ],
+      "answer": "A",
+      "answer_text": "To help refugee women earn money and feel proud"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Making clothes to sell",
+        "anchor": "They sell them to people outside the camp"
+      },
+      "explanation": "Paragraph 3 clearly says they sell the clothes.",
+      "statement": "The women sell the clothes they make.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "explanation": "Paragraph 3 lists these items.",
+      "question": "After two months, the women make beautiful dresses and ____.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "scarves"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "More than sewing",
+        "anchor": "The sewing class becomes very popular"
+      },
+      "explanation": "Paragraph 4 is about how the class grows and helps women.",
+      "question": "Which paragraph says the sewing class becomes popular?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "More than sewing",
+        "anchor": "Now 60 women come every week"
+      },
+      "explanation": "Paragraph 4 gives this number.",
+      "question": "How many women come to class every week now?",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "60 women"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 2 shows her motivation is to help. The class is free."
+    },
+    {
+      "id": "Q02",
+      "answer": "TRUE",
+      "explanation": "Paragraph 3 clearly says they sell the clothes."
+    },
+    {
+      "id": "Q03",
+      "answer": "scarves",
+      "explanation": "Paragraph 3 lists these items."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 is about how the class grows and helps women."
+    },
+    {
+      "id": "Q05",
+      "answer": "60 women",
+      "explanation": "Paragraph 4 gives this number."
+    }
+  ]
+}

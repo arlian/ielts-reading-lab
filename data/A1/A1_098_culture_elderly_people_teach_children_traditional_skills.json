@@ -1,0 +1,167 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-098",
+    "domain": "Culture",
+    "title": "Culture: Elderly people teach children traditional skills",
+    "focus": "Elderly people teach children traditional skills"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "Old skills are disappearing",
+        "text": "In 2016, in many countries, old people know traditional skills. They know how to weave cloth. They know how to make pottery. They know traditional dances. But young people do not want to learn. The skills are disappearing."
+      },
+      {
+        "paragraph": 2,
+        "heading": "A school without walls",
+        "text": "An old woman named Rosa decides to teach. She teaches children after school. She teaches them to weave cloth on a wooden loom. She teaches them traditional designs. The children love it. They feel connected to their culture."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Building respect",
+        "text": "As children learn, they respect the old people more. They ask questions. They listen to stories. Rosa tells them about the past. The children understand that their ancestors were smart and creative. Old knowledge becomes precious again."
+      },
+      {
+        "paragraph": 4,
+        "heading": "Sharing skills widely",
+        "text": "Other elderly people see Rosa's success. They start teaching too. One old man teaches carving. Another teaches traditional cooking. Another teaches music. The children have many choices. 200 children are learning traditional skills now."
+      },
+      {
+        "paragraph": 5,
+        "heading": "Culture lives on",
+        "text": "Today, traditional skills are not disappearing. Young people value them. They teach their own children. The culture is alive and strong. Rosa says old people have gifts. These gifts should not die with them. They should pass to the next generation."
+      }
+    ],
+    "full_text": "Paragraph 1 — Old skills are disappearing\nIn 2016, in many countries, old people know traditional skills. They know how to weave cloth. They know how to make pottery. They know traditional dances. But young people do not want to learn. The skills are disappearing.\n\nParagraph 2 — A school without walls\nAn old woman named Rosa decides to teach. She teaches children after school. She teaches them to weave cloth on a wooden loom. She teaches them traditional designs. The children love it. They feel connected to their culture.\n\nParagraph 3 — Building respect\nAs children learn, they respect the old people more. They ask questions. They listen to stories. Rosa tells them about the past. The children understand that their ancestors were smart and creative. Old knowledge becomes precious again.\n\nParagraph 4 — Sharing skills widely\nOther elderly people see Rosa's success. They start teaching too. One old man teaches carving. Another teaches traditional cooking. Another teaches music. The children have many choices. 200 children are learning traditional skills now.\n\nParagraph 5 — Culture lives on\nToday, traditional skills are not disappearing. Young people value them. They teach their own children. The culture is alive and strong. Rosa says old people have gifts. These gifts should not die with them. They should pass to the next generation."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Old skills are disappearing",
+        "anchor": "young people do not want to learn. The skills are disappearing"
+      },
+      "explanation": "Paragraph 1 identifies this as the main problem.",
+      "question": "What is the problem Rosa sees?",
+      "options": [
+        "Young people do not want to learn traditional skills",
+        "School is too hard",
+        "Old people are sick",
+        "There is no money"
+      ],
+      "answer": "A",
+      "answer_text": "Young people do not want to learn traditional skills"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "A school without walls",
+        "anchor": "She teaches children after school"
+      },
+      "explanation": "Paragraph 2 says she teaches after school, so probably not in a school.",
+      "statement": "Rosa teaches in a school building.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "A school without walls",
+        "anchor": "She teaches them to weave cloth"
+      },
+      "explanation": "Paragraph 2 names this skill.",
+      "question": "Rosa teaches children to ____ cloth on a wooden loom.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "weave"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Sharing skills widely",
+        "anchor": "Other elderly people see Rosa's success. They start teaching too"
+      },
+      "explanation": "Paragraph 4 shows how the idea spreads to other elders.",
+      "question": "Which paragraph says many elderly people start teaching?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Sharing skills widely",
+        "anchor": "200 children are learning traditional skills now"
+      },
+      "explanation": "Paragraph 4 gives this number.",
+      "question": "How many children are learning traditional skills?",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "200"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 identifies this as the main problem."
+    },
+    {
+      "id": "Q02",
+      "answer": "FALSE",
+      "explanation": "Paragraph 2 says she teaches after school, so probably not in a school."
+    },
+    {
+      "id": "Q03",
+      "answer": "weave",
+      "explanation": "Paragraph 2 names this skill."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 shows how the idea spreads to other elders."
+    },
+    {
+      "id": "Q05",
+      "answer": "200",
+      "explanation": "Paragraph 4 gives this number."
+    }
+  ]
+}

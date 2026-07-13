@@ -55,8 +55,8 @@ SKILL_BY_TYPE = {
 
 
 def norm_quotes(s: str) -> str:
-    return (s.replace("‘", "'").replace("’", "'")
-             .replace("“", '"').replace("”", '"'))
+    return (s.replace("'", "'").replace("'", "'")
+             .replace(""", '"').replace(""", '"'))
 
 
 def slugify(title: str, max_words: int = 8) -> str:
@@ -70,9 +70,7 @@ class TestParseError(Exception):
 
 
 def extract_json(text: str):
-    """Return the parsed JSON payload in text, or None if there is none.
-
-    Tolerates ```json fences and prose before/after the JSON object."""
+    """Return the parsed JSON payload in text, or None if there is none."""
     cleaned = re.sub(r"^```(?:json)?\s*$", "", text, flags=re.M)
     start = cleaned.find("{")
     end = cleaned.rfind("}")
@@ -148,6 +146,7 @@ def parse_json_test(t):
         raise TestParseError("no questions found")
     return hdr, sections, raw_questions
 
+
 def split_tests(text: str):
     blocks = re.split(r"^===\s*TEST[^\n]*===\s*$", text, flags=re.M)
     return [b.strip() for b in blocks if b.strip() and "LEVEL:" in b]
@@ -174,7 +173,6 @@ def parse_passage(block: str):
         raise TestParseError("could not find PASSAGE ... QUESTIONS sections")
     body = m.group(1).strip()
     parts = re.split(r"^##\s*(.+)$", body, flags=re.M)
-    # parts = ["", heading1, text1, heading2, text2, ...]
     sections = []
     for i in range(1, len(parts) - 1, 2):
         heading = parts[i].strip()
@@ -189,7 +187,6 @@ def parse_passage(block: str):
 def parse_questions(block: str):
     m = re.search(r"^QUESTIONS\s*$(.*)", block, flags=re.M | re.S)
     body = m.group(1)
-    # split on question starts: "N. [TYPE]"
     q_iter = list(re.finditer(r"^\s*(\d+)\.\s*\[(MC|TFNG|MATCH|GAP|SHORT)\]\s*(.*)$", body, flags=re.M))
     if not q_iter:
         raise TestParseError("no questions found (expected lines like '1. [MC] ...')")
@@ -201,7 +198,6 @@ def parse_questions(block: str):
         code = qm.group(2)
         qtext = qm.group(3).strip()
 
-        # word limit may be inline in the question: (LIMIT: TWO WORDS)
         limit = None
         lm = re.search(r"\(?\s*LIMIT:\s*([^)\n]+?)\s*\)?\s*$", qtext)
         if lm:
@@ -219,7 +215,7 @@ def parse_questions(block: str):
         answer = am.group(1).strip()
 
         ev_para, ev_quote = None, None
-        em = re.search(r'^EVIDENCE:\s*P(\d)\s*["“](.+?)["”]\s*$', chunk, flags=re.M)
+        em = re.search(r'^EVIDENCE:\s*P(\d)\s*[""](.+?)[""]\s*$', chunk, flags=re.M)
         if em:
             ev_para, ev_quote = int(em.group(1)), em.group(2).strip()
 
@@ -243,7 +239,6 @@ def find_quote(quote: str, sections, preferred_para):
         text = sections[para - 1]["text"]
         if quote in text:
             return para, quote
-        # retry ignoring case and curly/straight quote differences
         nt, nq = norm_quotes(text).lower(), norm_quotes(quote).lower()
         pos = nt.find(nq)
         if pos >= 0:
@@ -263,7 +258,6 @@ def build_topic_json(hdr, sections, raw_questions, topic_id, warnings):
             "difficulty": hdr["level"],
         }
 
-        # evidence
         if rq["ev_quote"]:
             para, exact = find_quote(rq["ev_quote"], sections, rq["ev_para"])
             if para:
@@ -301,7 +295,7 @@ def build_topic_json(hdr, sections, raw_questions, topic_id, warnings):
             q["question"] = rq["text"]
             q["options"] = [f"Paragraph {n}" for n in range(1, 6)]
             q["answer"] = f"Paragraph {m.group(0)}"
-        else:  # sentence_completion / short_answer
+        else:
             q["question"] = rq["text"]
             if rq["limit"]:
                 lim = rq["limit"].upper()

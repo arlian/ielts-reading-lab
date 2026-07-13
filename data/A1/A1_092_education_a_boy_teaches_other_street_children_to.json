@@ -1,0 +1,162 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-092",
+    "domain": "Education",
+    "title": "Education: A boy teaches other street children to read",
+    "focus": "A boy teaches other street children to read"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "A boy learns to read",
+        "text": "In 2014, Amit is 12 years old. He lives on the streets in India. A kind teacher finds him. She teaches him to read and write. After one year, Amit can read simple books. He is very happy."
+      },
+      {
+        "paragraph": 2,
+        "heading": "Amit becomes a teacher",
+        "text": "Now Amit wants to help other street children. In 2017, he starts teaching under a big tree. Five children come. He teaches them the alphabet. He teaches them to read simple words. The children are eager to learn."
+      },
+      {
+        "paragraph": 3,
+        "heading": "More and more children",
+        "text": "After six months, 20 children sit under the tree every day. Amit teaches them for two hours. He does not have books, but he writes on the ground with a stick. The children learn well. They are happy and excited."
+      },
+      {
+        "paragraph": 4,
+        "heading": "Help and support",
+        "text": "A school near the tree gives Amit chalk and paper. They give him old books too. Now Amit has better tools. The principal comes and watches. She is very impressed. She offers Amit a job as a teaching assistant."
+      },
+      {
+        "paragraph": 5,
+        "heading": "A new future",
+        "text": "Today, Amit works at the school. He teaches street children in the morning and afternoon. He earns money for food and a small room. Amit says reading changed his life. Now he changes other children's lives. One book can open many doors."
+      }
+    ],
+    "full_text": "Paragraph 1 — A boy learns to read\nIn 2014, Amit is 12 years old. He lives on the streets in India. A kind teacher finds him. She teaches him to read and write. After one year, Amit can read simple books. He is very happy.\n\nParagraph 2 — Amit becomes a teacher\nNow Amit wants to help other street children. In 2017, he starts teaching under a big tree. Five children come. He teaches them the alphabet. He teaches them to read simple words. The children are eager to learn.\n\nParagraph 3 — More and more children\nAfter six months, 20 children sit under the tree every day. Amit teaches them for two hours. He does not have books, but he writes on the ground with a stick. The children learn well. They are happy and excited.\n\nParagraph 4 — Help and support\nA school near the tree gives Amit chalk and paper. They give him old books too. Now Amit has better tools. The principal comes and watches. She is very impressed. She offers Amit a job as a teaching assistant.\n\nParagraph 5 — A new future\nToday, Amit works at the school. He teaches street children in the morning and afternoon. He earns money for food and a small room. Amit says reading changed his life. Now he changes other children's lives. One book can open many doors."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "A boy learns to read",
+        "anchor": "A kind teacher finds him. She teaches him to read"
+      },
+      "explanation": "Paragraph 1 says a teacher finds and teaches him.",
+      "question": "How does Amit learn to read?",
+      "options": [
+        "A kind teacher teaches him",
+        "He teaches himself",
+        "His parents teach him",
+        "A school gives him lessons"
+      ],
+      "answer": "A",
+      "answer_text": "A kind teacher teaches him"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "More and more children",
+        "anchor": "After six months, 20 children sit under the tree"
+      },
+      "explanation": "Paragraph 3 says 20 children, not 50.",
+      "statement": "Amit teaches 50 children under the tree.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "explanation": "Paragraph 3 gives this time.",
+      "question": "Amit teaches the children for ____ hours every day.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "two"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Help and support",
+        "anchor": "A school near the tree gives Amit chalk and paper"
+      },
+      "explanation": "Paragraph 4 is about how the school supports his teaching.",
+      "question": "Which paragraph says the school helps Amit?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Help and support",
+        "anchor": "She offers Amit a job as a teaching assistant"
+      },
+      "explanation": "Paragraph 4 names this job.",
+      "question": "What job does the school principal offer Amit?",
+      "word_limit": "NO MORE THAN THREE WORDS",
+      "answer": "teaching assistant"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 says a teacher finds and teaches him."
+    },
+    {
+      "id": "Q02",
+      "answer": "FALSE",
+      "explanation": "Paragraph 3 says 20 children, not 50."
+    },
+    {
+      "id": "Q03",
+      "answer": "two",
+      "explanation": "Paragraph 3 gives this time."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 is about how the school supports his teaching."
+    },
+    {
+      "id": "Q05",
+      "answer": "teaching assistant",
+      "explanation": "Paragraph 4 names this job."
+    }
+  ]
+}

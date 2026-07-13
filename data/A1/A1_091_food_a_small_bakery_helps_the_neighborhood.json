@@ -1,0 +1,167 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-091",
+    "domain": "Food",
+    "title": "Food: A small bakery helps the neighborhood",
+    "focus": "A small bakery helps the neighborhood"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "An old building becomes a bakery",
+        "text": "In 2015, Maria buys an old building in her neighborhood. She is 30 years old. She loves to bake bread. The neighborhood is poor. There is no good bakery. Maria wants to change this."
+      },
+      {
+        "paragraph": 2,
+        "heading": "Fresh bread every day",
+        "text": "Maria opens her bakery in 2016. She wakes up at 4 in the morning. She makes fresh bread. At 6, the bakery opens. People line up to buy warm bread. The bread is good and not expensive."
+      },
+      {
+        "paragraph": 3,
+        "heading": "More than bread",
+        "text": "Maria teaches young people to bake. Three students learn from her every week. They learn to make bread, cakes, and pastries. It is good work. When they learn enough, they can work in a bakery and earn money."
+      },
+      {
+        "paragraph": 4,
+        "heading": "The neighborhood changes",
+        "text": "Many people eat Maria's bread. Families feel proud. They have good food. The street looks nice now. More shops open nearby. People come to the bakery and shop in other stores. The neighborhood is alive again."
+      },
+      {
+        "paragraph": 5,
+        "heading": "A dream comes true",
+        "text": "Now Maria has two bakeries. She employs 12 people. She gives jobs to poor young people. They have hope now. Maria says baking is not just about bread. It is about giving people work and dignity."
+      }
+    ],
+    "full_text": "Paragraph 1 — An old building becomes a bakery\nIn 2015, Maria buys an old building in her neighborhood. She is 30 years old. She loves to bake bread. The neighborhood is poor. There is no good bakery. Maria wants to change this.\n\nParagraph 2 — Fresh bread every day\nMaria opens her bakery in 2016. She wakes up at 4 in the morning. She makes fresh bread. At 6, the bakery opens. People line up to buy warm bread. The bread is good and not expensive.\n\nParagraph 3 — More than bread\nMaria teaches young people to bake. Three students learn from her every week. They learn to make bread, cakes, and pastries. It is good work. When they learn enough, they can work in a bakery and earn money.\n\nParagraph 4 — The neighborhood changes\nMany people eat Maria's bread. Families feel proud. They have good food. The street looks nice now. More shops open nearby. People come to the bakery and shop in other stores. The neighborhood is alive again.\n\nParagraph 5 — A dream comes true\nNow Maria has two bakeries. She employs 12 people. She gives jobs to poor young people. They have hope now. Maria says baking is not just about bread. It is about giving people work and dignity."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "An old building becomes a bakery",
+        "anchor": "She loves to bake bread. The neighborhood is poor. There is no good bakery"
+      },
+      "explanation": "Paragraph 1 explains her motivation clearly.",
+      "question": "Why does Maria buy an old building?",
+      "options": [
+        "She wants to open a bakery to help her neighborhood",
+        "She wants to be rich",
+        "She likes old buildings",
+        "The government asks her to"
+      ],
+      "answer": "A",
+      "answer_text": "She wants to open a bakery to help her neighborhood"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "Fresh bread every day",
+        "anchor": "She wakes up at 4 in the morning"
+      },
+      "explanation": "Paragraph 2 says she wakes at 4 AM, which is very early.",
+      "statement": "Maria opens the bakery very early in the morning.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "More than bread",
+        "anchor": "Maria teaches young people to bake"
+      },
+      "explanation": "Paragraph 3 starts with this sentence.",
+      "question": "Maria teaches young people to ____.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "bake"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "The neighborhood changes",
+        "anchor": "The street looks nice now"
+      },
+      "explanation": "Paragraph 4 describes how the neighborhood changes and improves.",
+      "question": "Which paragraph says the neighborhood looks nicer?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "A dream comes true",
+        "anchor": "She employs 12 people"
+      },
+      "explanation": "Paragraph 5 gives this number.",
+      "question": "How many people work for Maria now?",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "12 people"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 explains her motivation clearly."
+    },
+    {
+      "id": "Q02",
+      "answer": "TRUE",
+      "explanation": "Paragraph 2 says she wakes at 4 AM, which is very early."
+    },
+    {
+      "id": "Q03",
+      "answer": "bake",
+      "explanation": "Paragraph 3 starts with this sentence."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 describes how the neighborhood changes and improves."
+    },
+    {
+      "id": "Q05",
+      "answer": "12 people",
+      "explanation": "Paragraph 5 gives this number."
+    }
+  ]
+}

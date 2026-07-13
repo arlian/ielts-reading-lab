@@ -1,0 +1,162 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-099",
+    "domain": "Sports",
+    "title": "Sports: A volleyball team for girls changes lives",
+    "focus": "A volleyball team for girls changes lives"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "Girls stay home from school",
+        "text": "In 2013, in a poor town, many girls do not go to school. They work at home or work for money. They do not have time to play or be with friends. Their parents think education is not important for girls. The girls are sad and lonely."
+      },
+      {
+        "paragraph": 2,
+        "heading": "A coach comes to town",
+        "text": "A coach named Fatima comes to the town. She is a woman volleyball player. She wants to teach girls to play volleyball. She starts a free team. At first, only four girls come. But they love volleyball. They come back the next day."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Families change their minds",
+        "text": "As more girls play volleyball, their parents see they are happy and healthy. The girls study more too. They have more energy. Their marks go up. Parents realize that sports help their daughters. The parents support the team now."
+      },
+      {
+        "paragraph": 4,
+        "heading": "The team grows strong",
+        "text": "By 2017, the volleyball team has 30 girls. They practice four times a week. They play matches against other towns. They win many games. The town feels very proud. The girls feel proud of themselves."
+      },
+      {
+        "paragraph": 5,
+        "heading": "More than volleyball",
+        "text": "Today, the team has 60 girls. Most of them go to school now. Many will go to university. Fatima says volleyball is a door to a better life. The ball and net gave these girls hope. They learned that they can do anything."
+      }
+    ],
+    "full_text": "Paragraph 1 — Girls stay home from school\nIn 2013, in a poor town, many girls do not go to school. They work at home or work for money. They do not have time to play or be with friends. Their parents think education is not important for girls. The girls are sad and lonely.\n\nParagraph 2 — A coach comes to town\nA coach named Fatima comes to the town. She is a woman volleyball player. She wants to teach girls to play volleyball. She starts a free team. At first, only four girls come. But they love volleyball. They come back the next day.\n\nParagraph 3 — Families change their minds\nAs more girls play volleyball, their parents see they are happy and healthy. The girls study more too. They have more energy. Their marks go up. Parents realize that sports help their daughters. The parents support the team now.\n\nParagraph 4 — The team grows strong\nBy 2017, the volleyball team has 30 girls. They practice four times a week. They play matches against other towns. They win many games. The town feels very proud. The girls feel proud of themselves.\n\nParagraph 5 — More than volleyball\nToday, the team has 60 girls. Most of them go to school now. Many will go to university. Fatima says volleyball is a door to a better life. The ball and net gave these girls hope. They learned that they can do anything."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "explanation": "Paragraph 1 clearly explains this situation.",
+      "question": "Why do many girls not go to school?",
+      "options": [
+        "They work at home and their parents think education is not important for girls",
+        "School is too hard",
+        "There is no school",
+        "Girls do not like learning"
+      ],
+      "answer": "A",
+      "answer_text": "They work at home and their parents think education is not important for girls"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "A coach comes to town",
+        "anchor": "She starts a free team"
+      },
+      "explanation": "Paragraph 2 says it is free.",
+      "statement": "The volleyball team costs money to join.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "A coach comes to town",
+        "anchor": "At first, only four girls come"
+      },
+      "explanation": "Paragraph 2 gives this number.",
+      "question": "At first, only ____ girls come to volleyball practice.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "four"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "The team grows strong",
+        "anchor": "They play matches against other towns"
+      },
+      "explanation": "Paragraph 4 is about how the team grows and becomes strong.",
+      "question": "Which paragraph says the team plays matches against other towns?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "More than volleyball",
+        "anchor": "Today, the team has 60 girls"
+      },
+      "explanation": "Paragraph 5 gives this number.",
+      "question": "How many girls are on the team today?",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "60 girls"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 clearly explains this situation."
+    },
+    {
+      "id": "Q02",
+      "answer": "FALSE",
+      "explanation": "Paragraph 2 says it is free."
+    },
+    {
+      "id": "Q03",
+      "answer": "four",
+      "explanation": "Paragraph 2 gives this number."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 is about how the team grows and becomes strong."
+    },
+    {
+      "id": "Q05",
+      "answer": "60 girls",
+      "explanation": "Paragraph 5 gives this number."
+    }
+  ]
+}

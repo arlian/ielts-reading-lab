@@ -1,0 +1,167 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-094",
+    "domain": "Environment",
+    "title": "Environment: A school teaches children to save animals",
+    "focus": "A school teaches children to save animals"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "Animals are disappearing",
+        "text": "In 2013, a school in Borneo sees that animals are disappearing. The forest is getting smaller. Many animals have no home. The school wants to help save the animals. The teachers and children make a plan."
+      },
+      {
+        "paragraph": 2,
+        "heading": "Learning about animals",
+        "text": "Teachers teach children about each animal. They learn about orangutans, birds, and snakes. They learn where these animals live. They learn what animals need to survive. The children love these lessons. They understand why animals are important."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Planting trees",
+        "text": "The school plants trees to make a forest again. Every child plants at least 10 trees a year. The forest grows back slowly. Small animals return. Birds come to live in the trees. Insects live in the soil."
+      },
+      {
+        "paragraph": 4,
+        "heading": "Visiting the young forest",
+        "text": "After three years, the young forest is 50,000 trees big. Classes go to the forest to study. They see animals living there. They count birds. They find insects. Children understand that their work makes a real difference."
+      },
+      {
+        "paragraph": 5,
+        "heading": "Protecting the future",
+        "text": "Now 500 children plant trees every year. The forest grows bigger and stronger. More animals come back. The school is an example for other schools. They say if children love nature, they will protect it. The animals have hope."
+      }
+    ],
+    "full_text": "Paragraph 1 — Animals are disappearing\nIn 2013, a school in Borneo sees that animals are disappearing. The forest is getting smaller. Many animals have no home. The school wants to help save the animals. The teachers and children make a plan.\n\nParagraph 2 — Learning about animals\nTeachers teach children about each animal. They learn about orangutans, birds, and snakes. They learn where these animals live. They learn what animals need to survive. The children love these lessons. They understand why animals are important.\n\nParagraph 3 — Planting trees\nThe school plants trees to make a forest again. Every child plants at least 10 trees a year. The forest grows back slowly. Small animals return. Birds come to live in the trees. Insects live in the soil.\n\nParagraph 4 — Visiting the young forest\nAfter three years, the young forest is 50,000 trees big. Classes go to the forest to study. They see animals living there. They count birds. They find insects. Children understand that their work makes a real difference.\n\nParagraph 5 — Protecting the future\nNow 500 children plant trees every year. The forest grows bigger and stronger. More animals come back. The school is an example for other schools. They say if children love nature, they will protect it. The animals have hope."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Animals are disappearing",
+        "anchor": "The forest is getting smaller. Many animals have no home"
+      },
+      "explanation": "Paragraph 1 shows that animals need homes and forests.",
+      "question": "Why does the school plant trees?",
+      "options": [
+        "To save animals and restore the forest",
+        "To make shade on sunny days",
+        "To sell the wood",
+        "Teachers need exercise"
+      ],
+      "answer": "A",
+      "answer_text": "To save animals and restore the forest"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Planting trees",
+        "anchor": "Every child plants at least 10 trees a year"
+      },
+      "explanation": "Paragraph 3 says 10 trees, not 20.",
+      "statement": "Every child plants 20 trees a year.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Visiting the young forest",
+        "anchor": "the young forest is 50,000 trees big"
+      },
+      "explanation": "Paragraph 4 gives this number.",
+      "question": "After three years, the young forest has ____ trees.",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "50,000 trees"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Visiting the young forest",
+        "anchor": "Classes go to the forest to study"
+      },
+      "explanation": "Paragraph 4 describes visits to the new forest.",
+      "question": "Which paragraph says children go to the forest to study?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Protecting the future",
+        "anchor": "Now 500 children plant trees every year"
+      },
+      "explanation": "Paragraph 5 gives this number.",
+      "question": "How many children plant trees every year now?",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "500"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 shows that animals need homes and forests."
+    },
+    {
+      "id": "Q02",
+      "answer": "FALSE",
+      "explanation": "Paragraph 3 says 10 trees, not 20."
+    },
+    {
+      "id": "Q03",
+      "answer": "50,000 trees",
+      "explanation": "Paragraph 4 gives this number."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 describes visits to the new forest."
+    },
+    {
+      "id": "Q05",
+      "answer": "500",
+      "explanation": "Paragraph 5 gives this number."
+    }
+  ]
+}

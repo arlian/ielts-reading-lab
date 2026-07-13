@@ -1,0 +1,167 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-100",
+    "domain": "Community",
+    "title": "Community: A community garden grows food and friendship",
+    "focus": "A community garden grows food and friendship"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "An empty lot in the city",
+        "text": "In 2014, there is an empty lot in a poor neighborhood. The lot is dirty and full of trash. Nobody uses it. The neighbors do not know each other. It is not a happy place."
+      },
+      {
+        "paragraph": 2,
+        "heading": "A dream of green",
+        "text": "A man named Luis has a dream. He wants to make a garden. He talks to his neighbors. They like the idea. Together, they clean the lot. They remove the trash. They bring soil and seeds."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Planting together",
+        "text": "In spring, the neighbors plant vegetables. They plant tomatoes, beans, and squash. Every day, someone waters the plants. Children help. Old people help. Young people help. Everyone works together."
+      },
+      {
+        "paragraph": 4,
+        "heading": "Harvest and celebration",
+        "text": "By summer, the garden is full of fresh food. Families harvest vegetables. They share the food with their neighbors. They have a big party in the garden. They eat together. They laugh together. The garden brings the community together."
+      },
+      {
+        "paragraph": 5,
+        "heading": "A real community now",
+        "text": "Today, the garden feeds 40 families. But it does more than that. Neighbors know each other now. They help each other. If someone is sick, neighbors bring food. If someone needs help, everyone comes. A simple garden made a community strong and kind."
+      }
+    ],
+    "full_text": "Paragraph 1 — An empty lot in the city\nIn 2014, there is an empty lot in a poor neighborhood. The lot is dirty and full of trash. Nobody uses it. The neighbors do not know each other. It is not a happy place.\n\nParagraph 2 — A dream of green\nA man named Luis has a dream. He wants to make a garden. He talks to his neighbors. They like the idea. Together, they clean the lot. They remove the trash. They bring soil and seeds.\n\nParagraph 3 — Planting together\nIn spring, the neighbors plant vegetables. They plant tomatoes, beans, and squash. Every day, someone waters the plants. Children help. Old people help. Young people help. Everyone works together.\n\nParagraph 4 — Harvest and celebration\nBy summer, the garden is full of fresh food. Families harvest vegetables. They share the food with their neighbors. They have a big party in the garden. They eat together. They laugh together. The garden brings the community together.\n\nParagraph 5 — A real community now\nToday, the garden feeds 40 families. But it does more than that. Neighbors know each other now. They help each other. If someone is sick, neighbors bring food. If someone needs help, everyone comes. A simple garden made a community strong and kind."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "An empty lot in the city",
+        "anchor": "The lot is dirty and full of trash"
+      },
+      "explanation": "Paragraph 1 describes the problem clearly.",
+      "question": "What is wrong with the empty lot at first?",
+      "options": [
+        "It is dirty and full of trash",
+        "It is too small",
+        "It is wet",
+        "It is too sunny"
+      ],
+      "answer": "A",
+      "answer_text": "It is dirty and full of trash"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "A dream of green",
+        "anchor": "Together, they clean the lot"
+      },
+      "explanation": "Paragraph 2 says his neighbors help him clean the lot.",
+      "statement": "Luis works alone to clean the lot.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Planting together",
+        "anchor": "They plant tomatoes, beans, and squash"
+      },
+      "explanation": "Paragraph 3 lists these vegetables.",
+      "question": "The neighbors plant tomatoes, beans, and ____.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "squash"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Harvest and celebration",
+        "anchor": "The garden brings the community together"
+      },
+      "explanation": "Paragraph 4 is about the harvest celebration and community connection.",
+      "question": "Which paragraph says the garden brings the community together?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "A real community now",
+        "anchor": "the garden feeds 40 families"
+      },
+      "explanation": "Paragraph 5 gives this number.",
+      "question": "How many families does the garden feed today?",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "40 families"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 describes the problem clearly."
+    },
+    {
+      "id": "Q02",
+      "answer": "FALSE",
+      "explanation": "Paragraph 2 says his neighbors help him clean the lot."
+    },
+    {
+      "id": "Q03",
+      "answer": "squash",
+      "explanation": "Paragraph 3 lists these vegetables."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 is about the harvest celebration and community connection."
+    },
+    {
+      "id": "Q05",
+      "answer": "40 families",
+      "explanation": "Paragraph 5 gives this number."
+    }
+  ]
+}

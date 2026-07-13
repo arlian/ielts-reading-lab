@@ -1,0 +1,167 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-093",
+    "domain": "Health",
+    "title": "Health: A dentist visits villages to help teeth",
+    "focus": "A dentist visits villages to help teeth"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "Teeth are a problem in villages",
+        "text": "In 2010, Dr. Priya is a dentist. She works in a big city. But she sees that people in villages have very bad teeth. They cannot go to a dentist. The village is far away. Dr. Priya wants to help."
+      },
+      {
+        "paragraph": 2,
+        "heading": "A mobile clinic",
+        "text": "In 2012, Dr. Priya buys a small van. She puts a dentist chair and tools inside. Every month, she drives to a village. She treats 30 to 50 people a day. She fixes teeth. She pulls bad teeth. She teaches people how to keep teeth clean."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Children learn about teeth",
+        "text": "Dr. Priya teaches children in village schools. She shows them how to brush their teeth. She teaches them not to eat too much sugar. The children love the lessons. They show their parents what they learn. Soon, more people take care of their teeth."
+      },
+      {
+        "paragraph": 4,
+        "heading": "Villages on a schedule",
+        "text": "Now Dr. Priya visits 12 villages every month. She has a schedule. Village A is on Monday, Village B on Tuesday. People know when she is coming. They save money to pay for treatment. The treatment is cheap. Everyone can afford it."
+      },
+      {
+        "paragraph": 5,
+        "heading": "Smiles across the villages",
+        "text": "After 12 years, Dr. Priya has helped 10,000 people. Children have fewer cavities. Adults smile more now. Dr. Priya says teeth health is important health. When people feel good about their teeth, they feel good about everything."
+      }
+    ],
+    "full_text": "Paragraph 1 — Teeth are a problem in villages\nIn 2010, Dr. Priya is a dentist. She works in a big city. But she sees that people in villages have very bad teeth. They cannot go to a dentist. The village is far away. Dr. Priya wants to help.\n\nParagraph 2 — A mobile clinic\nIn 2012, Dr. Priya buys a small van. She puts a dentist chair and tools inside. Every month, she drives to a village. She treats 30 to 50 people a day. She fixes teeth. She pulls bad teeth. She teaches people how to keep teeth clean.\n\nParagraph 3 — Children learn about teeth\nDr. Priya teaches children in village schools. She shows them how to brush their teeth. She teaches them not to eat too much sugar. The children love the lessons. They show their parents what they learn. Soon, more people take care of their teeth.\n\nParagraph 4 — Villages on a schedule\nNow Dr. Priya visits 12 villages every month. She has a schedule. Village A is on Monday, Village B on Tuesday. People know when she is coming. They save money to pay for treatment. The treatment is cheap. Everyone can afford it.\n\nParagraph 5 — Smiles across the villages\nAfter 12 years, Dr. Priya has helped 10,000 people. Children have fewer cavities. Adults smile more now. Dr. Priya says teeth health is important health. When people feel good about their teeth, they feel good about everything."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Teeth are a problem in villages",
+        "anchor": "people in villages have very bad teeth. They cannot go to a dentist"
+      },
+      "explanation": "Paragraph 1 explains her motivation clearly.",
+      "question": "Why does Dr. Priya start a mobile clinic?",
+      "options": [
+        "Village people have bad teeth and cannot go to a city dentist",
+        "She wants to leave the city",
+        "She likes to travel",
+        "Dentists ask her to"
+      ],
+      "answer": "A",
+      "answer_text": "Village people have bad teeth and cannot go to a city dentist"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "A mobile clinic",
+        "anchor": "a small van"
+      },
+      "explanation": "The passage says it is small, but does not say if it is fancy or not. We cannot verify.",
+      "statement": "Dr. Priya's van is very big and fancy.",
+      "answer": "NOT GIVEN"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "A mobile clinic",
+        "anchor": "She treats 30 to 50 people a day"
+      },
+      "explanation": "Paragraph 2 gives this number.",
+      "question": "She treats 30 to ____ people a day.",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "50 people"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Villages on a schedule",
+        "anchor": "She has a schedule"
+      },
+      "explanation": "Paragraph 4 is about how she plans her visits to villages.",
+      "question": "Which paragraph talks about Dr. Priya's schedule?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Smiles across the villages",
+        "anchor": "Dr. Priya has helped 10,000 people"
+      },
+      "explanation": "Paragraph 5 gives this total.",
+      "question": "How many people has Dr. Priya helped?",
+      "word_limit": "NO MORE THAN FIVE WORDS",
+      "answer": "10,000 people"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 explains her motivation clearly."
+    },
+    {
+      "id": "Q02",
+      "answer": "NOT GIVEN",
+      "explanation": "The passage says it is small, but does not say if it is fancy or not. We cannot verify."
+    },
+    {
+      "id": "Q03",
+      "answer": "50 people",
+      "explanation": "Paragraph 2 gives this number."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 is about how she plans her visits to villages."
+    },
+    {
+      "id": "Q05",
+      "answer": "10,000 people",
+      "explanation": "Paragraph 5 gives this total."
+    }
+  ]
+}

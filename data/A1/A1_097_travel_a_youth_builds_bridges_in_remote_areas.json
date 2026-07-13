@@ -1,0 +1,167 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-097",
+    "domain": "Travel",
+    "title": "Travel: A youth builds bridges in remote areas",
+    "focus": "A youth builds bridges in remote areas"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "A town cut off by rivers",
+        "text": "In 2015, villages in Nepal have a problem. Rivers separate the villages. There are no bridges. In the rainy season, the rivers are very dangerous. Children cannot go to school. Farmers cannot sell crops at market."
+      },
+      {
+        "paragraph": 2,
+        "heading": "A young engineer has a plan",
+        "text": "Prakash is 25 years old. He is an engineer. He decides to build bridges for the villages. He learns how to build simple but strong bridges. He uses local materials. He teaches villagers to build too."
+      },
+      {
+        "paragraph": 3,
+        "heading": "Building the first bridge",
+        "text": "In 2016, the village builds the first bridge. 50 people work together. It takes two months. The bridge is simple but beautiful. It is made of wood and rope. When the bridge is done, people dance and sing."
+      },
+      {
+        "paragraph": 4,
+        "heading": "More bridges follow",
+        "text": "The news spreads to other villages. They also want bridges. Prakash travels to six more villages. Every village builds a bridge. Young people learn engineering. They help build bridges. The knowledge spreads like water."
+      },
+      {
+        "paragraph": 5,
+        "heading": "Connections and opportunities",
+        "text": "Today, eight villages are connected by bridges. Children go to school. Farmers sell crops at market. Young people move to towns for jobs. A mother can visit her daughter more easily. Simple bridges changed everything. Prakash says connection is freedom."
+      }
+    ],
+    "full_text": "Paragraph 1 — A town cut off by rivers\nIn 2015, villages in Nepal have a problem. Rivers separate the villages. There are no bridges. In the rainy season, the rivers are very dangerous. Children cannot go to school. Farmers cannot sell crops at market.\n\nParagraph 2 — A young engineer has a plan\nPrakash is 25 years old. He is an engineer. He decides to build bridges for the villages. He learns how to build simple but strong bridges. He uses local materials. He teaches villagers to build too.\n\nParagraph 3 — Building the first bridge\nIn 2016, the village builds the first bridge. 50 people work together. It takes two months. The bridge is simple but beautiful. It is made of wood and rope. When the bridge is done, people dance and sing.\n\nParagraph 4 — More bridges follow\nThe news spreads to other villages. They also want bridges. Prakash travels to six more villages. Every village builds a bridge. Young people learn engineering. They help build bridges. The knowledge spreads like water.\n\nParagraph 5 — Connections and opportunities\nToday, eight villages are connected by bridges. Children go to school. Farmers sell crops at market. Young people move to towns for jobs. A mother can visit her daughter more easily. Simple bridges changed everything. Prakash says connection is freedom."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "A town cut off by rivers",
+        "anchor": "Rivers separate the villages. There are no bridges"
+      },
+      "explanation": "Paragraph 1 clearly explains the problem.",
+      "question": "Why is it hard for villages to connect?",
+      "options": [
+        "Rivers separate villages and have no bridges",
+        "Mountains are too high",
+        "Too many forests",
+        "People do not want to travel"
+      ],
+      "answer": "A",
+      "answer_text": "Rivers separate villages and have no bridges"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "A young engineer has a plan",
+        "anchor": "He uses local materials"
+      },
+      "explanation": "Paragraph 2 says he uses local materials, not modern machines.",
+      "statement": "Prakash builds the bridges with machines and modern tools.",
+      "answer": "FALSE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Building the first bridge",
+        "anchor": "It takes two months"
+      },
+      "explanation": "Paragraph 3 gives this time.",
+      "question": "The first bridge takes ____ months to build.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "two"
+    },
+    {
+      "id": "Q04",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "More bridges follow",
+        "anchor": "Young people learn engineering. They help build bridges"
+      },
+      "explanation": "Paragraph 4 is about how other villages learn and build bridges.",
+      "question": "Which paragraph says young people learn to build bridges?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Connections and opportunities",
+        "anchor": "eight villages are connected by bridges"
+      },
+      "explanation": "Paragraph 5 gives this number.",
+      "question": "How many villages are now connected by bridges?",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "eight"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "A",
+      "explanation": "Paragraph 1 clearly explains the problem."
+    },
+    {
+      "id": "Q02",
+      "answer": "FALSE",
+      "explanation": "Paragraph 2 says he uses local materials, not modern machines."
+    },
+    {
+      "id": "Q03",
+      "answer": "two",
+      "explanation": "Paragraph 3 gives this time."
+    },
+    {
+      "id": "Q04",
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 is about how other villages learn and build bridges."
+    },
+    {
+      "id": "Q05",
+      "answer": "eight",
+      "explanation": "Paragraph 5 gives this number."
+    }
+  ]
+}
