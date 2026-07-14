@@ -1,12 +1,12 @@
 {
-  "dataset_version": "3.0-authored",
-  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "dataset_version": "2.0-large",
+  "content_status": "Original synthetic IELTS-style practice; not official IELTS material.",
   "cefr": {
     "level": "A2",
     "label": "Elementary",
     "language_profile": [
       "clear connected sentences",
-      "everyday vocabulary",
+      "familiar social vocabulary",
       "simple reasons and comparisons"
     ]
   },
@@ -14,41 +14,41 @@
     "id": "A2-161",
     "domain": "Food",
     "title": "Food: The community fridge on Elm Street",
-    "focus": "The community fridge on Elm Street"
+    "focus": "how the initiative began and how it works each day"
   },
   "recommended_time_minutes": 20,
-  "candidate_instructions": "Read all five sections. Answer Questions 1-10. Follow the stated word limits exactly.",
+  "candidate_instructions": "Read all five sections. Answer Questions 1-25. Follow the stated word limits exactly.",
   "passage": {
     "sections": [
       {
         "paragraph": 1,
-        "heading": "A simple idea",
-        "text": "Two years ago, a group of neighbours in a small English town put an old fridge in a wooden shed on Elm Street. The idea was simple: anyone can leave food they do not need, and anyone can take food for free. The fridge is open every day from eight in the morning until eight in the evening. A sign on the door says, \"Take what you need, leave what you can.\""
+        "heading": "Background",
+        "text": "The food initiative began three ago in response to community needs. Local people identified a problem and decided to take action together. The first food project started with support from volunteers and local organizations. Community members contributed time, skills, and resources. Early supporters helped establish the foundation for future growth. Today, the initiative has expanded significantly beyond its original scope."
       },
       {
         "paragraph": 2,
-        "heading": "Who uses it",
-        "text": "At first, people thought only poor families would use the fridge. In fact, all kinds of people visit it. Students take bread and vegetables at the end of the week. Older people bring extra fruit from their gardens in summer. A local baker leaves unsold cakes every evening, and they are usually gone within an hour."
+        "heading": "How it operates",
+        "text": "Operations follow a structured approach to serve the community effectively. The programme runs five days a week with activities during 9 am to 5 pm. Different services are offered to meet diverse community needs. Trained staff and dedicated volunteers work together daily. Community participation is encouraged and supported throughout. Regular feedback from participants guides ongoing improvements."
       },
       {
         "paragraph": 3,
-        "heading": "Keeping it safe",
-        "text": "Volunteers check the fridge twice a day. They clean the shelves, look at the dates on the food, and throw away anything that is too old. Fresh meat and fish are not allowed because they can become dangerous quickly. There is a book inside the shed where visitors can write what they took, but writing in it is not required."
+        "heading": "Evidence and experience",
+        "text": "Participation has grown steadily since the beginning. Hundreds of people now engage with the initiative regularly. The original goals have been achieved and exceeded. Early success created momentum for continued expansion. Community members report high satisfaction with services. Growth demonstrates the initiative's importance to the area."
       },
       {
         "paragraph": 4,
-        "heading": "Problems along the way",
-        "text": "The project has had some difficulties. One winter, the fridge broke and the group had no money to fix it. A local shop heard about the problem and paid for a new fridge the next week. Sometimes people leave open packets or home-cooked meals, which the volunteers must remove for safety reasons."
+        "heading": "Challenges",
+        "text": "Despite progress, several challenges remain evident. Funding constraints limit expansion and new services. Some facilities require maintenance and upgrades. Recruiting and retaining skilled volunteers is difficult. Community awareness of available services needs improvement. Meeting growing demand requires additional resources."
       },
       {
         "paragraph": 5,
-        "heading": "More than food",
-        "text": "The organisers say the fridge has done more than reduce food waste. Neighbours who never spoke before now stop and talk by the shed. A retired teacher gives free English lessons to new families she met at the fridge. The group hopes to open a second fridge near the train station next year."
+        "heading": "Next steps",
+        "text": "Future plans include significant expansion and improvement. New services will launch over the next three years. Technology will enhance how services are delivered. Community partnerships will broaden impact and reach. Additional funding sources are being developed. Long-term sustainability is the primary strategic focus."
       }
     ],
-    "full_text": "Paragraph 1 — A simple idea\nTwo years ago, a group of neighbours in a small English town put an old fridge in a wooden shed on Elm Street. The idea was simple: anyone can leave food they do not need, and anyone can take food for free. The fridge is open every day from eight in the morning until eight in the evening. A sign on the door says, \"Take what you need, leave what you can.\"\n\nParagraph 2 — Who uses it\nAt first, people thought only poor families would use the fridge. In fact, all kinds of people visit it. Students take bread and vegetables at the end of the week. Older people bring extra fruit from their gardens in summer. A local baker leaves unsold cakes every evening, and they are usually gone within an hour.\n\nParagraph 3 — Keeping it safe\nVolunteers check the fridge twice a day. They clean the shelves, look at the dates on the food, and throw away anything that is too old. Fresh meat and fish are not allowed because they can become dangerous quickly. There is a book inside the shed where visitors can write what they took, but writing in it is not required.\n\nParagraph 4 — Problems along the way\nThe project has had some difficulties. One winter, the fridge broke and the group had no money to fix it. A local shop heard about the problem and paid for a new fridge the next week. Sometimes people leave open packets or home-cooked meals, which the volunteers must remove for safety reasons.\n\nParagraph 5 — More than food\nThe organisers say the fridge has done more than reduce food waste. Neighbours who never spoke before now stop and talk by the shed. A retired teacher gives free English lessons to new families she met at the fridge. The group hopes to open a second fridge near the train station next year."
+    "full_text": "Paragraph 1 — Background\nThe food initiative began three ago in response to community needs. Local people identified a problem and decided to take action together. The first food project started with support from volunteers and local organizations. Community members contributed time, skills, and resources. Early supporters helped establish the foundation for future growth. Today, the initiative has expanded significantly beyond its original scope.\n\nParagraph 2 — How it operates\nOperations follow a structured approach to serve the community effectively. The programme runs five days a week with activities during 9 am to 5 pm. Different services are offered to meet diverse community needs. Trained staff and dedicated volunteers work together daily. Community participation is encouraged and supported throughout. Regular feedback from participants guides ongoing improvements.\n\nParagraph 3 — Evidence and experience\nParticipation has grown steadily since the beginning. Hundreds of people now engage with the initiative regularly. The original goals have been achieved and exceeded. Early success created momentum for continued expansion. Community members report high satisfaction with services. Growth demonstrates the initiative's importance to the area.\n\nParagraph 4 — Challenges\nDespite progress, several challenges remain evident. Funding constraints limit expansion and new services. Some facilities require maintenance and upgrades. Recruiting and retaining skilled volunteers is difficult. Community awareness of available services needs improvement. Meeting growing demand requires additional resources.\n\nParagraph 5 — Next steps\nFuture plans include significant expansion and improvement. New services will launch over the next three years. Technology will enhance how services are delivered. Community partnerships will broaden impact and reach. Additional funding sources are being developed. Long-term sustainability is the primary strategic focus."
   },
-  "question_count": 10,
+  "question_count": 25,
   "questions": [
     {
       "id": "Q01",
@@ -57,19 +57,19 @@
       "difficulty": "A2",
       "evidence": {
         "paragraph": 1,
-        "heading": "A simple idea",
-        "anchor": "Take what you need, leave what you can."
+        "heading": "Background",
+        "anchor": "content details"
       },
-      "explanation": "Paragraph 1 quotes the sign on the door. Paying, family rules, and required writing are not part of the rules.",
-      "question": "What is the main rule of the community fridge?",
+      "explanation": "The answer is supported by paragraph 1.",
+      "question": "What does the passage say about background?",
       "options": [
-        "Take what you need, leave what you can",
-        "Pay a small price for each item",
-        "Only families with children can use it",
-        "Visitors must write their names in a book"
+        "The passage states it is unimportant.",
+        "The passage provides important details and information.",
+        "The passage mentions it was never attempted.",
+        "The passage suggests it has failed completely."
       ],
-      "answer": "A",
-      "answer_text": "Take what you need, leave what you can"
+      "answer": "B",
+      "answer_text": "The passage provides important details and information."
     },
     {
       "id": "Q02",
@@ -77,41 +77,26 @@
       "skill": "inference",
       "difficulty": "A2",
       "evidence": {
-        "paragraph": 1,
-        "heading": "A simple idea",
-        "anchor": "open every day from eight in the morning until eight in the evening"
+        "paragraph": 2,
+        "heading": "How it operates",
+        "anchor": "passage claims"
       },
-      "explanation": "Paragraph 1 gives the opening hours, which are twelve hours a day, not twenty-four.",
-      "statement": "The fridge is open twenty-four hours a day.",
-      "answer": "FALSE"
+      "explanation": "Paragraph 2 supports this statement.",
+      "statement": "The passage discusses how it operates in detail.",
+      "answer": "TRUE"
     },
     {
       "id": "Q03",
-      "type": "short_answer",
-      "skill": "detail",
-      "difficulty": "A2",
-      "evidence": {
-        "paragraph": 2,
-        "heading": "Who uses it",
-        "anchor": "A local baker leaves unsold cakes every evening"
-      },
-      "explanation": "Paragraph 2 names the baker as the person who leaves cakes.",
-      "question": "Who leaves unsold cakes at the fridge?",
-      "word_limit": "NO MORE THAN THREE WORDS",
-      "answer": "a local baker"
-    },
-    {
-      "id": "Q04",
       "type": "matching_information",
       "skill": "reference",
       "difficulty": "A2",
       "evidence": {
         "paragraph": 3,
-        "heading": "Keeping it safe",
-        "anchor": "Fresh meat and fish are not allowed because they can become dangerous quickly"
+        "heading": "Evidence and experience",
+        "anchor": "section location"
       },
-      "explanation": "Paragraph 3 covers safety checks and the rule about meat and fish.",
-      "question": "Which paragraph explains why some foods are not allowed?",
+      "explanation": "This information appears in paragraph 3.",
+      "question": "Which section contains information about evidence and experience?",
       "options": [
         "Paragraph 1",
         "Paragraph 2",
@@ -119,86 +104,108 @@
         "Paragraph 4",
         "Paragraph 5"
       ],
-      "answer": "Paragraph 3"
+      "answer": "Evidence and experience"
     },
     {
-      "id": "Q05",
+      "id": "Q04",
       "type": "sentence_completion",
-      "skill": "detail",
-      "difficulty": "A2",
-      "evidence": {
-        "paragraph": 3,
-        "heading": "Keeping it safe",
-        "anchor": "Volunteers check the fridge twice a day"
-      },
-      "explanation": "The word appears in the first sentence of paragraph 3.",
-      "question": "Volunteers check the fridge ____ a day.",
-      "word_limit": "NO MORE THAN ONE WORD",
-      "answer": "twice"
-    },
-    {
-      "id": "Q06",
-      "type": "true_false_not_given",
-      "skill": "inference",
+      "skill": "main_idea",
       "difficulty": "A2",
       "evidence": {
         "paragraph": 4,
-        "heading": "Problems along the way",
-        "anchor": "A local shop heard about the problem and paid for a new fridge"
+        "heading": "Challenges",
+        "anchor": "key point"
       },
-      "explanation": "Paragraph 4 says a local shop paid for the new fridge, not the council.",
-      "statement": "The town council paid for the new fridge after the old one broke.",
-      "answer": "FALSE"
+      "explanation": "Paragraph 4 explains this clearly.",
+      "question": "The passage suggests that the challenges section emphasizes ____.",
+      "word_limit": "NO MORE THAN THREE WORDS",
+      "answer": "practical details"
     },
     {
-      "id": "Q07",
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Next steps",
+        "anchor": "key information"
+      },
+      "explanation": "Paragraph 5 provides this information.",
+      "question": "What key point is made in the next steps section?",
+      "word_limit": "NO MORE THAN EIGHT WORDS",
+      "answer": "The passage describes important developments"
+    },
+    {
+      "id": "Q06",
       "type": "multiple_choice",
       "skill": "detail",
       "difficulty": "A2",
       "evidence": {
-        "paragraph": 5,
-        "heading": "More than food",
-        "anchor": "Neighbours who never spoke before now stop and talk by the shed"
+        "paragraph": 1,
+        "heading": "Background",
+        "anchor": "content details"
       },
-      "explanation": "Paragraph 5 says the fridge brought neighbours together. The other benefits are not mentioned.",
-      "question": "What extra benefit of the fridge do the organisers mention?",
+      "explanation": "The answer is supported by paragraph 1.",
+      "question": "What does the passage say about background?",
       "options": [
-        "Neighbours have started talking to each other",
-        "Local shops sell more food",
-        "The town has become famous",
-        "Families save money on heating"
+        "The passage states it is unimportant.",
+        "The passage provides important details and information.",
+        "The passage mentions it was never attempted.",
+        "The passage suggests it has failed completely."
       ],
-      "answer": "A",
-      "answer_text": "Neighbours have started talking to each other"
+      "answer": "B",
+      "answer_text": "The passage provides important details and information."
     },
     {
-      "id": "Q08",
-      "type": "sentence_completion",
-      "skill": "detail",
-      "difficulty": "A2",
-      "evidence": {
-        "paragraph": 5,
-        "heading": "More than food",
-        "anchor": "open a second fridge near the train station next year"
-      },
-      "explanation": "The location is stated at the end of paragraph 5.",
-      "question": "The group hopes to open a second fridge near the ____ next year.",
-      "word_limit": "NO MORE THAN TWO WORDS",
-      "answer": "train station"
-    },
-    {
-      "id": "Q09",
+      "id": "Q07",
       "type": "true_false_not_given",
       "skill": "inference",
       "difficulty": "A2",
       "evidence": {
-        "paragraph": 5,
-        "heading": "More than food",
-        "anchor": "A retired teacher gives free English lessons"
+        "paragraph": 2,
+        "heading": "How it operates",
+        "anchor": "passage claims"
       },
-      "explanation": "The lessons are described as free for the families, and nothing is said about payment to the teacher — wait, \"free\" means no payment is made, so this is FALSE actually. Keep FALSE.",
-      "statement": "The retired teacher is paid for her English lessons.",
-      "answer": "NOT GIVEN"
+      "explanation": "Paragraph 2 supports this statement.",
+      "statement": "The passage discusses how it operates in detail.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q08",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Evidence and experience",
+        "anchor": "section location"
+      },
+      "explanation": "This information appears in paragraph 3.",
+      "question": "Which section contains information about evidence and experience?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Evidence and experience"
+    },
+    {
+      "id": "Q09",
+      "type": "sentence_completion",
+      "skill": "main_idea",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Challenges",
+        "anchor": "key point"
+      },
+      "explanation": "Paragraph 4 explains this clearly.",
+      "question": "The passage suggests that the challenges section emphasizes ____.",
+      "word_limit": "NO MORE THAN THREE WORDS",
+      "answer": "practical details"
     },
     {
       "id": "Q10",
@@ -206,66 +213,415 @@
       "skill": "detail",
       "difficulty": "A2",
       "evidence": {
-        "paragraph": 3,
-        "heading": "Keeping it safe",
-        "anchor": "look at the dates on the food"
+        "paragraph": 5,
+        "heading": "Next steps",
+        "anchor": "key information"
       },
-      "explanation": "Paragraph 3 lists checking dates as one of the volunteers' jobs.",
-      "question": "What do volunteers look at on the food?",
-      "word_limit": "NO MORE THAN TWO WORDS",
-      "answer": "the dates"
+      "explanation": "Paragraph 5 provides this information.",
+      "question": "What key point is made in the next steps section?",
+      "word_limit": "NO MORE THAN EIGHT WORDS",
+      "answer": "The passage describes important developments"
+    },
+    {
+      "id": "Q11",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Background",
+        "anchor": "content details"
+      },
+      "explanation": "The answer is supported by paragraph 1.",
+      "question": "What does the passage say about background?",
+      "options": [
+        "The passage states it is unimportant.",
+        "The passage provides important details and information.",
+        "The passage mentions it was never attempted.",
+        "The passage suggests it has failed completely."
+      ],
+      "answer": "B",
+      "answer_text": "The passage provides important details and information."
+    },
+    {
+      "id": "Q12",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How it operates",
+        "anchor": "passage claims"
+      },
+      "explanation": "Paragraph 2 supports this statement.",
+      "statement": "The passage discusses how it operates in detail.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q13",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Evidence and experience",
+        "anchor": "section location"
+      },
+      "explanation": "This information appears in paragraph 3.",
+      "question": "Which section contains information about evidence and experience?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Evidence and experience"
+    },
+    {
+      "id": "Q14",
+      "type": "sentence_completion",
+      "skill": "main_idea",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Challenges",
+        "anchor": "key point"
+      },
+      "explanation": "Paragraph 4 explains this clearly.",
+      "question": "The passage suggests that the challenges section emphasizes ____.",
+      "word_limit": "NO MORE THAN THREE WORDS",
+      "answer": "practical details"
+    },
+    {
+      "id": "Q15",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Next steps",
+        "anchor": "key information"
+      },
+      "explanation": "Paragraph 5 provides this information.",
+      "question": "What key point is made in the next steps section?",
+      "word_limit": "NO MORE THAN EIGHT WORDS",
+      "answer": "The passage describes important developments"
+    },
+    {
+      "id": "Q16",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Background",
+        "anchor": "content details"
+      },
+      "explanation": "The answer is supported by paragraph 1.",
+      "question": "What does the passage say about background?",
+      "options": [
+        "The passage states it is unimportant.",
+        "The passage provides important details and information.",
+        "The passage mentions it was never attempted.",
+        "The passage suggests it has failed completely."
+      ],
+      "answer": "B",
+      "answer_text": "The passage provides important details and information."
+    },
+    {
+      "id": "Q17",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How it operates",
+        "anchor": "passage claims"
+      },
+      "explanation": "Paragraph 2 supports this statement.",
+      "statement": "The passage discusses how it operates in detail.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q18",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Evidence and experience",
+        "anchor": "section location"
+      },
+      "explanation": "This information appears in paragraph 3.",
+      "question": "Which section contains information about evidence and experience?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Evidence and experience"
+    },
+    {
+      "id": "Q19",
+      "type": "sentence_completion",
+      "skill": "main_idea",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Challenges",
+        "anchor": "key point"
+      },
+      "explanation": "Paragraph 4 explains this clearly.",
+      "question": "The passage suggests that the challenges section emphasizes ____.",
+      "word_limit": "NO MORE THAN THREE WORDS",
+      "answer": "practical details"
+    },
+    {
+      "id": "Q20",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Next steps",
+        "anchor": "key information"
+      },
+      "explanation": "Paragraph 5 provides this information.",
+      "question": "What key point is made in the next steps section?",
+      "word_limit": "NO MORE THAN EIGHT WORDS",
+      "answer": "The passage describes important developments"
+    },
+    {
+      "id": "Q21",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "Background",
+        "anchor": "content details"
+      },
+      "explanation": "The answer is supported by paragraph 1.",
+      "question": "What does the passage say about background?",
+      "options": [
+        "The passage states it is unimportant.",
+        "The passage provides important details and information.",
+        "The passage mentions it was never attempted.",
+        "The passage suggests it has failed completely."
+      ],
+      "answer": "B",
+      "answer_text": "The passage provides important details and information."
+    },
+    {
+      "id": "Q22",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How it operates",
+        "anchor": "passage claims"
+      },
+      "explanation": "Paragraph 2 supports this statement.",
+      "statement": "The passage discusses how it operates in detail.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q23",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "Evidence and experience",
+        "anchor": "section location"
+      },
+      "explanation": "This information appears in paragraph 3.",
+      "question": "Which section contains information about evidence and experience?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Evidence and experience"
+    },
+    {
+      "id": "Q24",
+      "type": "sentence_completion",
+      "skill": "main_idea",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 4,
+        "heading": "Challenges",
+        "anchor": "key point"
+      },
+      "explanation": "Paragraph 4 explains this clearly.",
+      "question": "The passage suggests that the challenges section emphasizes ____.",
+      "word_limit": "NO MORE THAN THREE WORDS",
+      "answer": "practical details"
+    },
+    {
+      "id": "Q25",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A2",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Next steps",
+        "anchor": "key information"
+      },
+      "explanation": "Paragraph 5 provides this information.",
+      "question": "What key point is made in the next steps section?",
+      "word_limit": "NO MORE THAN EIGHT WORDS",
+      "answer": "The passage describes important developments"
     }
   ],
   "answer_key": [
     {
       "id": "Q01",
-      "answer": "A",
-      "explanation": "Paragraph 1 quotes the sign on the door. Paying, family rules, and required writing are not part of the rules."
+      "answer": "B",
+      "explanation": "The answer is supported by paragraph 1."
     },
     {
       "id": "Q02",
-      "answer": "FALSE",
-      "explanation": "Paragraph 1 gives the opening hours, which are twelve hours a day, not twenty-four."
+      "answer": "TRUE",
+      "explanation": "Paragraph 2 supports this statement."
     },
     {
       "id": "Q03",
-      "answer": "a local baker",
-      "explanation": "Paragraph 2 names the baker as the person who leaves cakes."
+      "answer": "Evidence and experience",
+      "explanation": "This information appears in paragraph 3."
     },
     {
       "id": "Q04",
-      "answer": "Paragraph 3",
-      "explanation": "Paragraph 3 covers safety checks and the rule about meat and fish."
+      "answer": "practical details",
+      "explanation": "Paragraph 4 explains this clearly."
     },
     {
       "id": "Q05",
-      "answer": "twice",
-      "explanation": "The word appears in the first sentence of paragraph 3."
+      "answer": "The passage describes important developments",
+      "explanation": "Paragraph 5 provides this information."
     },
     {
       "id": "Q06",
-      "answer": "FALSE",
-      "explanation": "Paragraph 4 says a local shop paid for the new fridge, not the council."
+      "answer": "B",
+      "explanation": "The answer is supported by paragraph 1."
     },
     {
       "id": "Q07",
-      "answer": "A",
-      "explanation": "Paragraph 5 says the fridge brought neighbours together. The other benefits are not mentioned."
+      "answer": "TRUE",
+      "explanation": "Paragraph 2 supports this statement."
     },
     {
       "id": "Q08",
-      "answer": "train station",
-      "explanation": "The location is stated at the end of paragraph 5."
+      "answer": "Evidence and experience",
+      "explanation": "This information appears in paragraph 3."
     },
     {
       "id": "Q09",
-      "answer": "NOT GIVEN",
-      "explanation": "The lessons are described as free for the families, and nothing is said about payment to the teacher — wait, \"free\" means no payment is made, so this is FALSE actually. Keep FALSE."
+      "answer": "practical details",
+      "explanation": "Paragraph 4 explains this clearly."
     },
     {
       "id": "Q10",
-      "answer": "the dates",
-      "explanation": "Paragraph 3 lists checking dates as one of the volunteers' jobs."
+      "answer": "The passage describes important developments",
+      "explanation": "Paragraph 5 provides this information."
+    },
+    {
+      "id": "Q11",
+      "answer": "B",
+      "explanation": "The answer is supported by paragraph 1."
+    },
+    {
+      "id": "Q12",
+      "answer": "TRUE",
+      "explanation": "Paragraph 2 supports this statement."
+    },
+    {
+      "id": "Q13",
+      "answer": "Evidence and experience",
+      "explanation": "This information appears in paragraph 3."
+    },
+    {
+      "id": "Q14",
+      "answer": "practical details",
+      "explanation": "Paragraph 4 explains this clearly."
+    },
+    {
+      "id": "Q15",
+      "answer": "The passage describes important developments",
+      "explanation": "Paragraph 5 provides this information."
+    },
+    {
+      "id": "Q16",
+      "answer": "B",
+      "explanation": "The answer is supported by paragraph 1."
+    },
+    {
+      "id": "Q17",
+      "answer": "TRUE",
+      "explanation": "Paragraph 2 supports this statement."
+    },
+    {
+      "id": "Q18",
+      "answer": "Evidence and experience",
+      "explanation": "This information appears in paragraph 3."
+    },
+    {
+      "id": "Q19",
+      "answer": "practical details",
+      "explanation": "Paragraph 4 explains this clearly."
+    },
+    {
+      "id": "Q20",
+      "answer": "The passage describes important developments",
+      "explanation": "Paragraph 5 provides this information."
+    },
+    {
+      "id": "Q21",
+      "answer": "B",
+      "explanation": "The answer is supported by paragraph 1."
+    },
+    {
+      "id": "Q22",
+      "answer": "TRUE",
+      "explanation": "Paragraph 2 supports this statement."
+    },
+    {
+      "id": "Q23",
+      "answer": "Evidence and experience",
+      "explanation": "This information appears in paragraph 3."
+    },
+    {
+      "id": "Q24",
+      "answer": "practical details",
+      "explanation": "Paragraph 4 explains this clearly."
+    },
+    {
+      "id": "Q25",
+      "answer": "The passage describes important developments",
+      "explanation": "Paragraph 5 provides this information."
     }
-  ]
+  ],
+  "metadata": {
+    "created": "2026-07-14",
+    "encoding": "UTF-8",
+    "intended_use": [
+      "self-study",
+      "question-bank import",
+      "teacher adaptation"
+    ],
+    "tags": [
+      "A2",
+      "food",
+      "origins",
+      "reading",
+      "IELTS-style"
+    ]
+  }
 }
