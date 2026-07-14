@@ -1,0 +1,183 @@
+{
+  "dataset_version": "3.0-authored",
+  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "cefr": {
+    "level": "A1",
+    "label": "Beginner",
+    "language_profile": [
+      "very simple sentences",
+      "high-frequency vocabulary",
+      "concrete everyday topics"
+    ]
+  },
+  "topic": {
+    "id": "A1-021",
+    "domain": "Arts",
+    "title": "Arts: The Story in Neighbourhood Arts Festivals",
+    "focus": "arts - origins"
+  },
+  "recommended_time_minutes": 20,
+  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "passage": {
+    "sections": [
+      {
+        "paragraph": 1,
+        "heading": "The Story",
+        "text": "A arts project started five years ago. People saw a problem and wanted to help. They worked together to make things better.."
+      },
+      {
+        "paragraph": 2,
+        "heading": "How It Works",
+        "text": "The project works five days each week. It helps many people in the community. Workers and volunteers are there every day.."
+      },
+      {
+        "paragraph": 3,
+        "heading": "People's Stories",
+        "text": "More and more people come each month. The project is now very popular. Everyone says it is a good thing.."
+      },
+      {
+        "paragraph": 4,
+        "heading": "Good and Bad",
+        "text": "Some things are difficult. There is not enough money. We need more helpers. But people still believe in the work.."
+      },
+      {
+        "paragraph": 5,
+        "heading": "The Future",
+        "text": "The project will grow in the future. More services will start. More people will benefit.."
+      }
+    ],
+    "full_text": "Paragraph 1 — The Story\nA arts project started five years ago. People saw a problem and wanted to help. They worked together to make things better..\n\nParagraph 2 — How It Works\nThe project works five days each week. It helps many people in the community. Workers and volunteers are there every day..\n\nParagraph 3 — People's Stories\nMore and more people come each month. The project is now very popular. Everyone says it is a good thing..\n\nParagraph 4 — Good and Bad\nSome things are difficult. There is not enough money. We need more helpers. But people still believe in the work..\n\nParagraph 5 — The Future\nThe project will grow in the future. More services will start. More people will benefit.."
+  },
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "Q01",
+      "type": "multiple_choice",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "The Story",
+        "anchor": "main information"
+      },
+      "explanation": "The answer is in the passage.",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "It is about a problem",
+        "It is about a project that helps people",
+        "It is about money",
+        "It is not clear"
+      ],
+      "answer": "B",
+      "answer_text": "It is about a project that helps people"
+    },
+    {
+      "id": "Q02",
+      "type": "true_false_not_given",
+      "skill": "inference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "The Story",
+        "anchor": "statement verification"
+      },
+      "explanation": "The passage says this is true.",
+      "statement": "Many people like the project.",
+      "answer": "TRUE"
+    },
+    {
+      "id": "Q03",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 2,
+        "heading": "How It Works",
+        "anchor": "missing word"
+      },
+      "explanation": "The answer is 'in the future'.",
+      "question": "The project will grow ____.",
+      "word_limit": "NO MORE THAN ONE WORD",
+      "answer": "in the future"
+    },
+    {
+      "id": "Q04",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 3,
+        "heading": "People's Stories",
+        "anchor": "answer information"
+      },
+      "explanation": "The answer is 'It helps the community'.",
+      "question": "What is the arts project about?",
+      "word_limit": "NO MORE THAN TWO WORDS",
+      "answer": "It helps the community"
+    },
+    {
+      "id": "Q05",
+      "type": "matching_information",
+      "skill": "reference",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "The Future",
+        "anchor": "paragraph location"
+      },
+      "explanation": "The answer is 'Paragraph 5'.",
+      "question": "Which paragraph talks about the future?",
+      "options": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "answer": "Paragraph 5"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "Q01",
+      "answer": "B",
+      "explanation": "The answer is in the passage."
+    },
+    {
+      "id": "Q02",
+      "answer": "TRUE",
+      "explanation": "The passage says this is true."
+    },
+    {
+      "id": "Q03",
+      "answer": "in the future",
+      "explanation": "The answer is 'in the future'."
+    },
+    {
+      "id": "Q04",
+      "answer": "It helps the community",
+      "explanation": "The answer is 'It helps the community'."
+    },
+    {
+      "id": "Q05",
+      "answer": "Paragraph 5",
+      "explanation": "The answer is 'Paragraph 5'."
+    }
+  ],
+  "metadata": {
+    "created": "2026-07-14",
+    "encoding": "UTF-8",
+    "intended_use": [
+      "self-study",
+      "question-bank import",
+      "teacher adaptation"
+    ],
+    "tags": [
+      "A1",
+      "arts",
+      "origins",
+      "reading",
+      "IELTS-style"
+    ]
+  }
+}
