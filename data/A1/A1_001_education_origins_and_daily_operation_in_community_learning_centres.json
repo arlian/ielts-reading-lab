@@ -1,6 +1,6 @@
 {
-  "dataset_version": "3.0-authored",
-  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "dataset_version": "2.0-large",
+  "content_status": "Original synthetic IELTS-style practice; not official IELTS material.",
   "cefr": {
     "level": "A1",
     "label": "Beginner",
@@ -13,8 +13,8 @@
   "topic": {
     "id": "A1-001",
     "domain": "Education",
-    "title": "Education: The Story in Community Learning Centres",
-    "focus": "education - origins"
+    "title": "Education: Origins and daily operation in Community Learning Centres",
+    "focus": "how the initiative began and how it works each day"
   },
   "recommended_time_minutes": 20,
   "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
@@ -22,31 +22,31 @@
     "sections": [
       {
         "paragraph": 1,
-        "heading": "The Beginning",
-        "text": "Community learning centres started in our area ten years ago. A small group of teachers saw that many children were not in school. They decided to open a free place where children could learn. They began with only ten students. Today, over two hundred children come to learn here."
+        "heading": "The first books",
+        "text": "In 2013, a woman named Sari opens a small library in her house. She lives in Bandung, a city in Indonesia. Sari is a nurse. Many children near her house cannot read well. Sari has forty books. She puts them on one shelf by the door. Six children come on the first day. The children call the room Rumah Baca. In English, this means reading house."
       },
       {
         "paragraph": 2,
-        "heading": "How It Works",
-        "text": "The project works five days each week. It helps many people in the community. Workers and volunteers are there every day.."
+        "heading": "The centre today",
+        "text": "Today Rumah Baca is not in Sari's house. It is in a bigger room next to the market on Jalan Melati. The room has two thousand books. About 70 children come every week. Twelve adults come too. The adults learn to read and to use a phone for their work. Sari is 52 years old now. She does not work alone any more."
       },
       {
         "paragraph": 3,
-        "heading": "People's Stories",
-        "text": "More and more people come each month. The project is now very popular. Everyone says it is a good thing.."
+        "heading": "A normal day",
+        "text": "The centre opens six days a week. On Sunday it is closed. It opens at three o'clock in the afternoon and closes at seven o'clock. First the children read for thirty minutes. Then they do maths or writing. At five o'clock everybody stops for a snack. The snack is free. It is usually bananas or rice cakes."
       },
       {
         "paragraph": 4,
-        "heading": "Good and Bad",
-        "text": "Some things are difficult. There is not enough money. We need more helpers. But people still believe in the work.."
+        "heading": "The helpers",
+        "text": "Twelve people help at Rumah Baca. Only Sari and one teacher get money for this work. The other ten people are volunteers. Four of the volunteers are old students of the centre. Budi is one of them. He is 19 years old. He first comes to Rumah Baca when he is nine. Now he teaches maths on Tuesday and Thursday."
       },
       {
         "paragraph": 5,
-        "heading": "The Future",
-        "text": "The project will grow in the future. More services will start. More people will benefit.."
+        "heading": "Money and plans",
+        "text": "The room next to the market is not free. The rent is three million rupiah every month. A shop in the market pays half of the rent. Parents give small gifts of food and money. Some months there is not enough. Sari wants to open a second room in 2027. She also wants two computers for the children."
       }
     ],
-    "full_text": "Paragraph 1 — The Beginning\nCommunity learning centres started in our area ten years ago. A small group of teachers saw that many children were not in school. They decided to open a free place where children could learn. They began with only ten students. Today, over two hundred children come to learn here.\n\nParagraph 2 — How It Works\nThe project works five days each week. It helps many people in the community. Workers and volunteers are there every day..\n\nParagraph 3 — People's Stories\nMore and more people come each month. The project is now very popular. Everyone says it is a good thing..\n\nParagraph 4 — Good and Bad\nSome things are difficult. There is not enough money. We need more helpers. But people still believe in the work..\n\nParagraph 5 — The Future\nThe project will grow in the future. More services will start. More people will benefit.."
+    "full_text": "Paragraph 1 — The first books\nIn 2013, a woman named Sari opens a small library in her house. She lives in Bandung, a city in Indonesia. Sari is a nurse. Many children near her house cannot read well. Sari has forty books. She puts them on one shelf by the door. Six children come on the first day. The children call the room Rumah Baca. In English, this means reading house.\n\nParagraph 2 — The centre today\nToday Rumah Baca is not in Sari's house. It is in a bigger room next to the market on Jalan Melati. The room has two thousand books. About 70 children come every week. Twelve adults come too. The adults learn to read and to use a phone for their work. Sari is 52 years old now. She does not work alone any more.\n\nParagraph 3 — A normal day\nThe centre opens six days a week. On Sunday it is closed. It opens at three o'clock in the afternoon and closes at seven o'clock. First the children read for thirty minutes. Then they do maths or writing. At five o'clock everybody stops for a snack. The snack is free. It is usually bananas or rice cakes.\n\nParagraph 4 — The helpers\nTwelve people help at Rumah Baca. Only Sari and one teacher get money for this work. The other ten people are volunteers. Four of the volunteers are old students of the centre. Budi is one of them. He is 19 years old. He first comes to Rumah Baca when he is nine. Now he teaches maths on Tuesday and Thursday.\n\nParagraph 5 — Money and plans\nThe room next to the market is not free. The rent is three million rupiah every month. A shop in the market pays half of the rent. Parents give small gifts of food and money. Some months there is not enough. Sari wants to open a second room in 2027. She also wants two computers for the children."
   },
   "question_count": 5,
   "questions": [
@@ -57,33 +57,33 @@
       "difficulty": "A1",
       "evidence": {
         "paragraph": 1,
-        "heading": "The Story",
-        "anchor": "main information"
+        "heading": "The first books",
+        "anchor": "Sari opens a small library in her house"
       },
-      "explanation": "The answer is in the passage.",
-      "question": "What is the main idea of the passage?",
+      "explanation": "Paragraph 1 says Sari opens a small library in her house in 2013. The room next to the market comes later, in paragraph 2.",
+      "question": "Where does Sari open her first library?",
       "options": [
-        "It is about a problem",
-        "It is about a project that helps people",
-        "It is about money",
-        "It is not clear"
+        "In her own house",
+        "In a school",
+        "In a room next to the market",
+        "In the hospital"
       ],
-      "answer": "B",
-      "answer_text": "It is about a project that helps people"
+      "answer": "A",
+      "answer_text": "In her own house"
     },
     {
       "id": "Q02",
       "type": "true_false_not_given",
-      "skill": "inference",
+      "skill": "detail",
       "difficulty": "A1",
       "evidence": {
-        "paragraph": 1,
-        "heading": "The Story",
-        "anchor": "statement verification"
+        "paragraph": 3,
+        "heading": "A normal day",
+        "anchor": "On Sunday it is closed"
       },
-      "explanation": "The passage says this is true.",
-      "statement": "Many people like the project.",
-      "answer": "TRUE"
+      "explanation": "Paragraph 3 says the centre opens six days a week and is closed on Sunday.",
+      "statement": "The centre is open on Sunday.",
+      "answer": "FALSE"
     },
     {
       "id": "Q03",
@@ -92,41 +92,26 @@
       "difficulty": "A1",
       "evidence": {
         "paragraph": 2,
-        "heading": "How It Works",
-        "anchor": "missing word"
+        "heading": "The centre today",
+        "anchor": "About 70 children come every week"
       },
-      "explanation": "The answer is 'in the future'.",
-      "question": "The project will grow ____.",
-      "word_limit": "NO MORE THAN ONE WORD",
-      "answer": "in the future"
+      "explanation": "Paragraph 2 says about 70 children come every week.",
+      "question": "About ____ children come to Rumah Baca every week.",
+      "answer": "70",
+      "word_limit": "NO MORE THAN ONE WORD"
     },
     {
       "id": "Q04",
-      "type": "short_answer",
-      "skill": "detail",
-      "difficulty": "A1",
-      "evidence": {
-        "paragraph": 3,
-        "heading": "People's Stories",
-        "anchor": "answer information"
-      },
-      "explanation": "The answer is 'It helps the community'.",
-      "question": "What is the education project about?",
-      "word_limit": "NO MORE THAN TWO WORDS",
-      "answer": "It helps the community"
-    },
-    {
-      "id": "Q05",
       "type": "matching_information",
       "skill": "reference",
       "difficulty": "A1",
       "evidence": {
-        "paragraph": 5,
-        "heading": "The Future",
-        "anchor": "paragraph location"
+        "paragraph": 4,
+        "heading": "The helpers",
+        "anchor": "Twelve people help at Rumah Baca"
       },
-      "explanation": "The answer is 'Paragraph 5'.",
-      "question": "Which paragraph talks about the future?",
+      "explanation": "Paragraph 4 is about the twelve helpers: the two paid workers and the ten volunteers.",
+      "question": "Which paragraph tells us about the people who help at the centre?",
       "options": [
         "Paragraph 1",
         "Paragraph 2",
@@ -134,34 +119,49 @@
         "Paragraph 4",
         "Paragraph 5"
       ],
-      "answer": "Paragraph 5"
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "The first books",
+        "anchor": "In English, this means reading house"
+      },
+      "explanation": "Paragraph 1 says that in English the name Rumah Baca means reading house.",
+      "question": "What does the name Rumah Baca mean in English?",
+      "answer": "reading house",
+      "word_limit": "NO MORE THAN THREE WORDS"
     }
   ],
   "answer_key": [
     {
       "id": "Q01",
-      "answer": "B",
-      "explanation": "The answer is in the passage."
+      "answer": "A",
+      "explanation": "Paragraph 1 says Sari opens a small library in her house in 2013. The room next to the market comes later, in paragraph 2."
     },
     {
       "id": "Q02",
-      "answer": "TRUE",
-      "explanation": "The passage says this is true."
+      "answer": "FALSE",
+      "explanation": "Paragraph 3 says the centre opens six days a week and is closed on Sunday."
     },
     {
       "id": "Q03",
-      "answer": "in the future",
-      "explanation": "The answer is 'in the future'."
+      "answer": "70",
+      "explanation": "Paragraph 2 says about 70 children come every week."
     },
     {
       "id": "Q04",
-      "answer": "It helps the community",
-      "explanation": "The answer is 'It helps the community'."
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 is about the twelve helpers: the two paid workers and the ten volunteers."
     },
     {
       "id": "Q05",
-      "answer": "Paragraph 5",
-      "explanation": "The answer is 'Paragraph 5'."
+      "answer": "reading house",
+      "explanation": "Paragraph 1 says that in English the name Rumah Baca means reading house."
     }
   ],
   "metadata": {
