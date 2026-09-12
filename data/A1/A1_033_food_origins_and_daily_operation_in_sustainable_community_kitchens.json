@@ -1,6 +1,6 @@
 {
-  "dataset_version": "3.0-authored",
-  "content_status": "Original IELTS-style practice; not official IELTS material.",
+  "dataset_version": "2.0-large",
+  "content_status": "Original synthetic IELTS-style practice; not official IELTS material.",
   "cefr": {
     "level": "A1",
     "label": "Beginner",
@@ -22,31 +22,31 @@
     "sections": [
       {
         "paragraph": 1,
-        "heading": "The Beginning",
-        "text": "A sustainable community kitchen opened eighteen months ago in an urban area. Food waste and hunger were problems in the neighbourhood. Volunteers started collecting excess food from markets and restaurants. They taught community members to cook healthy meals. Now, the kitchen feeds two hundred people each week."
+        "heading": "How it starts",
+        "text": "In 2018, Grace Otieno works in a big market in Nairobi, Kenya. Every evening she sees good food in the bins. The sellers cannot sell it, so they throw it away. Grace is angry about this. One evening she takes some vegetables home. She cooks a big pot of stew. She gives the food to eight children on her street."
       },
       {
         "paragraph": 2,
-        "heading": "How It Works",
-        "text": "The project works five days each week. It helps many people in the community. Workers and volunteers are there every day.."
+        "heading": "The kitchen today",
+        "text": "Today Grace has a small kitchen next to the market. People call it Upendo Kitchen. The word upendo means love. The kitchen cooks hot food for 300 people every week. The food is free. Grace does not buy any vegetables. The sellers in the market give her the food they cannot sell."
       },
       {
         "paragraph": 3,
-        "heading": "People's Stories",
-        "text": "More and more people come each month. The project is now very popular. Everyone says it is a good thing.."
+        "heading": "A day in the kitchen",
+        "text": "The day starts early. At six o'clock, two helpers walk around the market with big baskets. They collect onions, beans, rice and fruit. At nine o'clock the cooking starts. There are three big pots. At twelve o'clock the kitchen opens. People come with their own bowls. The kitchen closes at two o'clock."
       },
       {
         "paragraph": 4,
-        "heading": "Good and Bad",
-        "text": "Some things are difficult. There is not enough money. We need more helpers. But people still believe in the work.."
+        "heading": "The helpers",
+        "text": "Twelve people work at Upendo Kitchen. Only Grace gets money for her work. The other eleven people are volunteers. Some of them are mothers of the children. One volunteer is a nurse. She comes on Friday. She talks to people about healthy food. The volunteers wash the pots too."
       },
       {
         "paragraph": 5,
-        "heading": "The Future",
-        "text": "The project will grow in the future. More services will start. More people will benefit.."
+        "heading": "Problems and plans",
+        "text": "Grace has two problems. In the rainy season there is not much fruit in the market. Then there is not enough food for everybody. The kitchen is also very small. Grace wants a bigger room and a new cooker. In 2027 she wants to open a second kitchen in another part of the city."
       }
     ],
-    "full_text": "Paragraph 1 — The Beginning\nA sustainable community kitchen opened eighteen months ago in an urban area. Food waste and hunger were problems in the neighbourhood. Volunteers started collecting excess food from markets and restaurants. They taught community members to cook healthy meals. Now, the kitchen feeds two hundred people each week.\n\nParagraph 2 — How It Works\nThe project works five days each week. It helps many people in the community. Workers and volunteers are there every day..\n\nParagraph 3 — People's Stories\nMore and more people come each month. The project is now very popular. Everyone says it is a good thing..\n\nParagraph 4 — Good and Bad\nSome things are difficult. There is not enough money. We need more helpers. But people still believe in the work..\n\nParagraph 5 — The Future\nThe project will grow in the future. More services will start. More people will benefit.."
+    "full_text": "Paragraph 1 — How it starts\nIn 2018, Grace Otieno works in a big market in Nairobi, Kenya. Every evening she sees good food in the bins. The sellers cannot sell it, so they throw it away. Grace is angry about this. One evening she takes some vegetables home. She cooks a big pot of stew. She gives the food to eight children on her street.\n\nParagraph 2 — The kitchen today\nToday Grace has a small kitchen next to the market. People call it Upendo Kitchen. The word upendo means love. The kitchen cooks hot food for 300 people every week. The food is free. Grace does not buy any vegetables. The sellers in the market give her the food they cannot sell.\n\nParagraph 3 — A day in the kitchen\nThe day starts early. At six o'clock, two helpers walk around the market with big baskets. They collect onions, beans, rice and fruit. At nine o'clock the cooking starts. There are three big pots. At twelve o'clock the kitchen opens. People come with their own bowls. The kitchen closes at two o'clock.\n\nParagraph 4 — The helpers\nTwelve people work at Upendo Kitchen. Only Grace gets money for her work. The other eleven people are volunteers. Some of them are mothers of the children. One volunteer is a nurse. She comes on Friday. She talks to people about healthy food. The volunteers wash the pots too.\n\nParagraph 5 — Problems and plans\nGrace has two problems. In the rainy season there is not much fruit in the market. Then there is not enough food for everybody. The kitchen is also very small. Grace wants a bigger room and a new cooker. In 2027 she wants to open a second kitchen in another part of the city."
   },
   "question_count": 5,
   "questions": [
@@ -57,33 +57,33 @@
       "difficulty": "A1",
       "evidence": {
         "paragraph": 1,
-        "heading": "The Story",
-        "anchor": "main information"
+        "heading": "How it starts",
+        "anchor": "Every evening she sees good food in the bins"
       },
-      "explanation": "The answer is in the passage.",
-      "question": "What is the main idea of the passage?",
+      "explanation": "Paragraph 1 says Grace works in a big market in Nairobi and sees good food in the bins there every evening.",
+      "question": "Where does Grace see good food in the bins?",
       "options": [
-        "It is about a problem",
-        "It is about a project that helps people",
-        "It is about money",
-        "It is not clear"
+        "In a school",
+        "In the market",
+        "In a restaurant",
+        "In her house"
       ],
       "answer": "B",
-      "answer_text": "It is about a project that helps people"
+      "answer_text": "In the market"
     },
     {
       "id": "Q02",
       "type": "true_false_not_given",
-      "skill": "inference",
+      "skill": "detail",
       "difficulty": "A1",
       "evidence": {
-        "paragraph": 1,
-        "heading": "The Story",
-        "anchor": "statement verification"
+        "paragraph": 2,
+        "heading": "The kitchen today",
+        "anchor": "The food is free"
       },
-      "explanation": "The passage says this is true.",
-      "statement": "Many people like the project.",
-      "answer": "TRUE"
+      "explanation": "Paragraph 2 says the food is free.",
+      "statement": "People pay for the food at Upendo Kitchen.",
+      "answer": "FALSE"
     },
     {
       "id": "Q03",
@@ -91,42 +91,27 @@
       "skill": "detail",
       "difficulty": "A1",
       "evidence": {
-        "paragraph": 2,
-        "heading": "How It Works",
-        "anchor": "missing word"
+        "paragraph": 3,
+        "heading": "A day in the kitchen",
+        "anchor": "two helpers walk around the market with big baskets"
       },
-      "explanation": "The answer is 'in the future'.",
-      "question": "The project will grow ____.",
-      "word_limit": "NO MORE THAN ONE WORD",
-      "answer": "in the future"
+      "explanation": "Paragraph 3 says two helpers walk around the market with big baskets at six o'clock.",
+      "question": "Two helpers collect food in big ____.",
+      "answer": "baskets",
+      "word_limit": "NO MORE THAN ONE WORD"
     },
     {
       "id": "Q04",
-      "type": "short_answer",
-      "skill": "detail",
-      "difficulty": "A1",
-      "evidence": {
-        "paragraph": 3,
-        "heading": "People's Stories",
-        "anchor": "answer information"
-      },
-      "explanation": "The answer is 'It helps the community'.",
-      "question": "What is the food project about?",
-      "word_limit": "NO MORE THAN TWO WORDS",
-      "answer": "It helps the community"
-    },
-    {
-      "id": "Q05",
       "type": "matching_information",
       "skill": "reference",
       "difficulty": "A1",
       "evidence": {
-        "paragraph": 5,
-        "heading": "The Future",
-        "anchor": "paragraph location"
+        "paragraph": 4,
+        "heading": "The helpers",
+        "anchor": "Twelve people work at Upendo Kitchen"
       },
-      "explanation": "The answer is 'Paragraph 5'.",
-      "question": "Which paragraph talks about the future?",
+      "explanation": "Paragraph 4 is about the twelve workers: Grace and the eleven volunteers.",
+      "question": "Which paragraph tells us about the people who work in the kitchen?",
       "options": [
         "Paragraph 1",
         "Paragraph 2",
@@ -134,34 +119,49 @@
         "Paragraph 4",
         "Paragraph 5"
       ],
-      "answer": "Paragraph 5"
+      "answer": "Paragraph 4"
+    },
+    {
+      "id": "Q05",
+      "type": "short_answer",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 5,
+        "heading": "Problems and plans",
+        "anchor": "In 2027 she wants to open a second kitchen"
+      },
+      "explanation": "Paragraph 5 says Grace wants to open a second kitchen in another part of the city in 2027.",
+      "question": "In which year does Grace want to open a second kitchen?",
+      "answer": "2027",
+      "word_limit": "NO MORE THAN ONE WORD"
     }
   ],
   "answer_key": [
     {
       "id": "Q01",
       "answer": "B",
-      "explanation": "The answer is in the passage."
+      "explanation": "Paragraph 1 says Grace works in a big market in Nairobi and sees good food in the bins there every evening."
     },
     {
       "id": "Q02",
-      "answer": "TRUE",
-      "explanation": "The passage says this is true."
+      "answer": "FALSE",
+      "explanation": "Paragraph 2 says the food is free."
     },
     {
       "id": "Q03",
-      "answer": "in the future",
-      "explanation": "The answer is 'in the future'."
+      "answer": "baskets",
+      "explanation": "Paragraph 3 says two helpers walk around the market with big baskets at six o'clock."
     },
     {
       "id": "Q04",
-      "answer": "It helps the community",
-      "explanation": "The answer is 'It helps the community'."
+      "answer": "Paragraph 4",
+      "explanation": "Paragraph 4 is about the twelve workers: Grace and the eleven volunteers."
     },
     {
       "id": "Q05",
-      "answer": "Paragraph 5",
-      "explanation": "The answer is 'Paragraph 5'."
+      "answer": "2027",
+      "explanation": "Paragraph 5 says Grace wants to open a second kitchen in another part of the city in 2027."
     }
   ],
   "metadata": {
