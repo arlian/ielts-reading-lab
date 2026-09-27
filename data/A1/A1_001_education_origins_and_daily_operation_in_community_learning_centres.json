@@ -17,7 +17,7 @@
     "focus": "how the initiative began and how it works each day"
   },
   "recommended_time_minutes": 20,
-  "candidate_instructions": "Read all five sections. Answer Questions 1-5. Follow the stated word limits exactly.",
+  "candidate_instructions": "Read all five sections. Answer Questions 1-6. Follow the stated word limits exactly.",
   "passage": {
     "sections": [
       {
@@ -48,7 +48,7 @@
     ],
     "full_text": "Paragraph 1 — The first books\nIn 2013, a woman named Sari opens a small library in her house. She lives in Bandung, a city in Indonesia. Sari is a nurse. Many children near her house cannot read well. Sari has forty books. She puts them on one shelf by the door. Six children come on the first day. The children call the room Rumah Baca. In English, this means reading house.\n\nParagraph 2 — The centre today\nToday Rumah Baca is not in Sari's house. It is in a bigger room next to the market on Jalan Melati. The room has two thousand books. About 70 children come every week. Twelve adults come too. The adults learn to read and to use a phone for their work. Sari is 52 years old now. She does not work alone any more.\n\nParagraph 3 — A normal day\nThe centre opens six days a week. On Sunday it is closed. It opens at three o'clock in the afternoon and closes at seven o'clock. First the children read for thirty minutes. Then they do maths or writing. At five o'clock everybody stops for a snack. The snack is free. It is usually bananas or rice cakes.\n\nParagraph 4 — The helpers\nTwelve people help at Rumah Baca. Only Sari and one teacher get money for this work. The other ten people are volunteers. Four of the volunteers are old students of the centre. Budi is one of them. He is 19 years old. He first comes to Rumah Baca when he is nine. Now he teaches maths on Tuesday and Thursday.\n\nParagraph 5 — Money and plans\nThe room next to the market is not free. The rent is three million rupiah every month. A shop in the market pays half of the rent. Parents give small gifts of food and money. Some months there is not enough. Sari wants to open a second room in 2027. She also wants two computers for the children."
   },
-  "question_count": 5,
+  "question_count": 6,
   "questions": [
     {
       "id": "Q01",
@@ -135,6 +135,21 @@
       "question": "What does the name Rumah Baca mean in English?",
       "answer": "reading house",
       "word_limit": "NO MORE THAN THREE WORDS"
+    },
+    {
+      "id": "Q06",
+      "type": "sentence_completion",
+      "skill": "detail",
+      "difficulty": "A1",
+      "evidence": {
+        "paragraph": 1,
+        "heading": "The first books",
+        "anchor": "Six children come on the first day"
+      },
+      "explanation": "Paragraph 1 says six children come to the room on the first day.",
+      "question": "On the first day, ____ children come to Rumah Baca.",
+      "answer": "six",
+      "word_limit": "NO MORE THAN ONE WORD"
     }
   ],
   "answer_key": [
@@ -162,6 +177,11 @@
       "id": "Q05",
       "answer": "reading house",
       "explanation": "Paragraph 1 says that in English the name Rumah Baca means reading house."
+    },
+    {
+      "id": "Q06",
+      "answer": "six",
+      "explanation": "Paragraph 1 says six children come to the room on the first day."
     }
   ],
   "metadata": {
