@@ -20,4 +20,4 @@ Any static file server works (the app uses `fetch()`, so opening `index.html` di
 ```bash
 python3 -m http.server 8000
 # then open http://localhost:8000
-``
+```
