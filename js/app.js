@@ -198,8 +198,8 @@
       </nav>
 
       <div class="filters">
-        <input type="search" id="searchBox" placeholder="Search topics…" value="${esc(query)}">
-        <select id="domainSelect">
+        <input type="search" id="searchBox" aria-label="Search topics" placeholder="Search topics…" value="${esc(query)}">
+        <select id="domainSelect" aria-label="Filter by domain">
           <option value="">All domains</option>
           ${domains.map((d) => `<option value="${esc(d)}" ${d === domain ? "selected" : ""}>${esc(d)}</option>`).join("")}
         </select>
