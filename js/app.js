@@ -33,14 +33,16 @@
         date: new Date().toISOString(),
         attempts: prev ? prev.attempts + 1 : 1,
       };
-      localStorage.setItem("irl-progress", JSON.stringify(p));
+      try { localStorage.setItem("irl-progress", JSON.stringify(p)); }
+      catch { /* storage full or unavailable */ }
     },
     getDraft(topicId) {
       try { return JSON.parse(localStorage.getItem("irl-draft-" + topicId)); }
       catch { return null; }
     },
     saveDraft(topicId, draft) {
-      localStorage.setItem("irl-draft-" + topicId, JSON.stringify(draft));
+      try { localStorage.setItem("irl-draft-" + topicId, JSON.stringify(draft)); }
+      catch { /* storage full or unavailable */ }
     },
     clearDraft(topicId) {
       localStorage.removeItem("irl-draft-" + topicId);
