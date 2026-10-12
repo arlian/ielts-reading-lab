@@ -395,7 +395,7 @@
 
     // wire inputs
     topic.questions.forEach((q) => {
-      const card = pane.querySelector(`[data-qid="${q.id}"]`);
+      const card = pane.querySelector(`[data-qid="${esc(q.id)}"]`);
       if (!card) return;
 
       if (q.type === "multiple_choice" || q.type === "matching_information") {
@@ -448,7 +448,7 @@
             else cls = "";
           }
           return `<label class="opt ${cls}">
-            <input type="radio" name="${q.id}" value="${letter}" ${selected ? "checked" : ""} ${disabled}>
+            <input type="radio" name="${esc(q.id)}" value="${letter}" ${selected ? "checked" : ""} ${disabled}>
             <span class="opt-key">${letter}</span><span>${esc(opt)}</span>
           </label>`;
         }).join("")}
@@ -464,7 +464,7 @@
             else cls = "";
           }
           return `<label class="opt ${cls}">
-            <input type="radio" name="${q.id}" value="${esc(opt)}" ${selected ? "checked" : ""} ${disabled}>
+            <input type="radio" name="${esc(q.id)}" value="${esc(opt)}" ${selected ? "checked" : ""} ${disabled}>
             <span>${esc(opt)}</span>
           </label>`;
         }).join("")}
@@ -502,7 +502,7 @@
     }
 
     return `
-      <div class="q-card ${cardClass}" data-qid="${q.id}">
+      <div class="q-card ${cardClass}" data-qid="${esc(q.id)}">
         <div class="q-head">
           <span class="q-num">Q${num}</span>
           <span class="q-type">${TYPE_LABELS[q.type] || esc(q.type)} · ${esc(q.skill || "")}</span>
