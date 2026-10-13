@@ -195,7 +195,8 @@
 
       <nav class="level-tabs">
         ${LEVELS.map((lv) => `
-          <button class="level-tab ${lv === level ? "active" : ""}" data-level="${lv}">
+          <button class="level-tab ${lv === level ? "active" : ""}" data-level="${lv}"
+            ${lv === level ? 'aria-current="page"' : ""}>
             ${lv} <span class="count">${levelDone(lv)}/${levelTotal(lv)}</span>
           </button>`).join("")}
       </nav>
