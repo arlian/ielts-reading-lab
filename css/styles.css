@@ -450,3 +450,8 @@ mark.evidence {
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; }
 }
+
+:where(a, button, select, input, label.opt):focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
