@@ -53,13 +53,16 @@
   const themeToggle = document.getElementById("themeToggle");
   function applyTheme(t) {
     document.documentElement.dataset.theme = t;
-    localStorage.setItem("irl-theme", t);
+    try { localStorage.setItem("irl-theme", t); } catch { /* storage unavailable */ }
+  }
+  function savedTheme() {
+    try { return localStorage.getItem("irl-theme"); } catch { return null; }
   }
   themeToggle.addEventListener("click", () => {
     applyTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark");
   });
   applyTheme(
-    localStorage.getItem("irl-theme") ||
+    savedTheme() ||
     (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")
   );
 
