@@ -413,8 +413,12 @@
         card.querySelectorAll(".tfng-btn").forEach((btn) => {
           btn.addEventListener("click", () => {
             state.setAnswer(q.id, btn.dataset.value);
-            card.querySelectorAll(".tfng-btn").forEach((b) => b.classList.remove("selected"));
+            card.querySelectorAll(".tfng-btn").forEach((b) => {
+              b.classList.remove("selected");
+              b.setAttribute("aria-pressed", "false");
+            });
             btn.classList.add("selected");
+            btn.setAttribute("aria-pressed", "true");
           });
         });
       } else {
@@ -482,7 +486,7 @@
             else if (selected) cls = "wrong";
             else cls = "";
           }
-          return `<button class="tfng-btn ${cls}" data-value="${v}" ${disabled}>${v}</button>`;
+          return `<button type="button" class="tfng-btn ${cls}" data-value="${v}" aria-pressed="${selected}" ${disabled}>${v}</button>`;
         }).join("")}
       </div>`;
     } else {
