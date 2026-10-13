@@ -445,3 +445,8 @@ mark.evidence {
   font-size: .9rem;
 }
 .back-link:hover { text-decoration: underline; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; }
+}
