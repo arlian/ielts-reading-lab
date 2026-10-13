@@ -490,6 +490,7 @@
       body = `
         ${q.word_limit ? `<div class="word-limit">${esc(q.word_limit)}</div>` : ""}
         <input class="text-answer ${cls}" type="text" value="${esc(userAnswer)}"
+          autocomplete="off" spellcheck="false" autocapitalize="off"
           placeholder="Type your answer…" ${disabled}>`;
     }
 
